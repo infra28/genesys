@@ -1,0 +1,98 @@
+[
+  {
+    "id_layak_pip": -3.0,
+    "alasan_layak_pip": "Dilarang Pemda karena menerima bantuan serupa",
+    "create_date": "2016-07-22 06:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": -2.0,
+    "alasan_layak_pip": "Sudah Mampu",
+    "create_date": "2016-07-14 22:56:54.67",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": -1.0,
+    "alasan_layak_pip": "Menolak",
+    "create_date": "2016-07-14 22:56:54.67",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 1.0,
+    "alasan_layak_pip": "Pemegang PKH/KPS/KKS",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-30 23:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 2.0,
+    "alasan_layak_pip": "Penerima BSM 2014",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2016-07-22 06:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 3.0,
+    "alasan_layak_pip": "Yatim Piatu/Panti Asuhan/Panti Sosial",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 4.0,
+    "alasan_layak_pip": "Dampak Bencana Alam",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 5.0,
+    "alasan_layak_pip": "Pernah Drop Out",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 6.0,
+    "alasan_layak_pip": "Siswa Miskin/Rentan Miskin",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 7.0,
+    "alasan_layak_pip": "Daerah Konflik",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 8.0,
+    "alasan_layak_pip": "Keluarga Terpidana / Berada di LAPAS",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_layak_pip": 9.0,
+    "alasan_layak_pip": "Kelainan Fisik",
+    "create_date": "2016-01-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

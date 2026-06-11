@@ -1,0 +1,114 @@
+[
+  {
+    "jenis_ijazah_id": 1.0,
+    "nama": "Sertifikat Kelulusan PAUD",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 2.0,
+    "nama": "Ijazah SD",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 3.0,
+    "nama": "Ijazah SMP",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 4.0,
+    "nama": "Ijazah SMA",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 5.0,
+    "nama": "Ijazah SMK",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 11.0,
+    "nama": "Ijazah Paket A",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 12.0,
+    "nama": "Ijazah Paket B",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 13.0,
+    "nama": "Ijazah Paket C",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 21.0,
+    "nama": "Sukma Dasar",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 22.0,
+    "nama": "Sukma Lanjutan",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 31.0,
+    "nama": "Sertifikat Kelulusan TKLB",
+    "create_date": "2024-07-15 16:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 32.0,
+    "nama": "Ijazah SDLB",
+    "create_date": "2024-07-15 16:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 33.0,
+    "nama": "Ijazah SMPLB",
+    "create_date": "2024-07-15 16:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ijazah_id": 34.0,
+    "nama": "Ijazah SMALB",
+    "create_date": "2024-07-15 16:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

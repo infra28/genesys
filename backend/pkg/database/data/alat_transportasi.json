@@ -1,0 +1,106 @@
+[
+  {
+    "alat_transportasi_id": 1.0,
+    "nama": "Jalan kaki",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 2.0,
+    "nama": "Kendaraan pribadi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-10-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 3.0,
+    "nama": "Angkutan umum/bus/pete-pete",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 4.0,
+    "nama": "Mobil/bus antar jemput",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 5.0,
+    "nama": "Kereta api",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 6.0,
+    "nama": "Ojek",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 7.0,
+    "nama": "Andong/bendi/sado/dokar/delman/becak",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 8.0,
+    "nama": "Perahu penyeberangan/rakit/getek",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 11.0,
+    "nama": "Kuda",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 12.0,
+    "nama": "Sepeda",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 13.0,
+    "nama": "Sepeda motor",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 14.0,
+    "nama": "Mobil pribadi",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "alat_transportasi_id": 99.0,
+    "nama": "Lainnya",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

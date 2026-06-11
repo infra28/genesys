@@ -1,0 +1,102 @@
+[
+  {
+    "jenis_keluar_id": "1",
+    "ket_keluar": "Lulus",
+    "keluar_pd": 1.0,
+    "keluar_ptk": 0.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "2",
+    "ket_keluar": "Mutasi",
+    "keluar_pd": 1.0,
+    "keluar_ptk": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "3",
+    "ket_keluar": "Dikeluarkan",
+    "keluar_pd": 1.0,
+    "keluar_ptk": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "4",
+    "ket_keluar": "Mengundurkan diri",
+    "keluar_pd": 1.0,
+    "keluar_ptk": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "5",
+    "ket_keluar": "Putus Sekolah",
+    "keluar_pd": 1.0,
+    "keluar_ptk": 0.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "6",
+    "ket_keluar": "Wafat",
+    "keluar_pd": 1.0,
+    "keluar_ptk": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "7",
+    "ket_keluar": "Hilang",
+    "keluar_pd": 1.0,
+    "keluar_ptk": 1.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "8",
+    "ket_keluar": "Alih Fungsi",
+    "keluar_pd": 0.0,
+    "keluar_ptk": 1.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "9",
+    "ket_keluar": "Pensiun",
+    "keluar_pd": 0.0,
+    "keluar_ptk": 1.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_keluar_id": "Z",
+    "ket_keluar": "Lainnya",
+    "keluar_pd": 1.0,
+    "keluar_ptk": 1.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2019-01-22 10:30:00",
+    "expired_date": "2019-01-22 10:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

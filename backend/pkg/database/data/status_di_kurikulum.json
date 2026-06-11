@@ -1,0 +1,98 @@
+[
+  {
+    "status_di_kurikulum": 1.0,
+    "ket_stat_di_kurikulum": "Matpel Wajib",
+    "create_date": "2018-01-24 00:00:00",
+    "last_update": "2018-01-24 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 2.0,
+    "ket_stat_di_kurikulum": "Matpel Bidang Studi Wajib (tambahan jam)",
+    "create_date": "2018-01-24 00:00:00",
+    "last_update": "2018-01-24 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 3.0,
+    "ket_stat_di_kurikulum": "Matpel Bidang Studi Wajib A / Kelompok A",
+    "create_date": "2018-01-24 00:00:00",
+    "last_update": "2018-01-24 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 4.0,
+    "ket_stat_di_kurikulum": "Matpel Bidang Studi Wajib B / Kelompok B",
+    "create_date": "2018-01-24 00:00:00",
+    "last_update": "2018-01-24 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 5.0,
+    "ket_stat_di_kurikulum": "Matpel Peminatan",
+    "create_date": "2018-01-24 00:00:00",
+    "last_update": "2018-01-24 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 6.0,
+    "ket_stat_di_kurikulum": "Matpel Produktif",
+    "create_date": "2018-01-24 00:00:00",
+    "last_update": "2018-01-24 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 8.0,
+    "ket_stat_di_kurikulum": "Ekstensi Team Teaching (Praktek)",
+    "create_date": "2018-01-24 00:00:00",
+    "last_update": "2018-01-24 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 9.0,
+    "ket_stat_di_kurikulum": "Matpel Lainnya / Tambahan",
+    "create_date": "2018-01-24 00:00:00",
+    "last_update": "2018-01-24 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 10.0,
+    "ket_stat_di_kurikulum": "Muatan Sekolah",
+    "create_date": "2018-07-11 23:27:57.883",
+    "last_update": "2018-07-11 23:57:57.883",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 11.0,
+    "ket_stat_di_kurikulum": "Matapelajaran Pilihan",
+    "create_date": "2022-06-21 15:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 12.0,
+    "ket_stat_di_kurikulum": "Rombongan Belajar P5",
+    "create_date": "2022-06-21 15:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_di_kurikulum": 13.0,
+    "ket_stat_di_kurikulum": "Praktik Kerja Lapangan",
+    "create_date": "2023-07-08 16:00:00",
+    "last_update": "2023-07-10 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

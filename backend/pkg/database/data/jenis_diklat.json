@@ -1,0 +1,138 @@
+[
+  {
+    "jenis_diklat_id": 1,
+    "nama": "Diklat Prajabatan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.363",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.363"
+  },
+  {
+    "jenis_diklat_id": 2,
+    "nama": "Diklat Pratugas",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.364",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.364"
+  },
+  {
+    "jenis_diklat_id": 3,
+    "nama": "Diklat Penjenjangan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.364",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.364"
+  },
+  {
+    "jenis_diklat_id": 4,
+    "nama": "Diklat Manajemen",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.364",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.364"
+  },
+  {
+    "jenis_diklat_id": 5,
+    "nama": "Diklat Teknis Profesi Kependidikan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.364",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.364"
+  },
+  {
+    "jenis_diklat_id": 6,
+    "nama": "Diklat Teknis Program Kependidikan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.364",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.364"
+  },
+  {
+    "jenis_diklat_id": 7,
+    "nama": "Diklat Teknis Umum/Adm Dan Manajemen",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.365",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.365"
+  },
+  {
+    "jenis_diklat_id": 8,
+    "nama": "Diklat Fungsional Kependidikan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.365",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.365"
+  },
+  {
+    "jenis_diklat_id": 9,
+    "nama": "Diklat Fungsional Non Kependidikan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.365",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.365"
+  },
+  {
+    "jenis_diklat_id": 10,
+    "nama": "Bimtek PTK SD satu atap",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.365",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.365"
+  },
+  {
+    "jenis_diklat_id": 11,
+    "nama": "Bimtek PTK SMP satu atap",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.365",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.365"
+  },
+  {
+    "jenis_diklat_id": 12,
+    "nama": "Bimtek PTK SMA satu atap",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.366",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.366"
+  },
+  {
+    "jenis_diklat_id": 13,
+    "nama": "Kursus Mahir Dasar Kepramukaan",
+    "create_date": "2014-07-23 14:33:43.497",
+    "last_update": "2022-07-01 22:05:22.366",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.366"
+  },
+  {
+    "jenis_diklat_id": 14,
+    "nama": "Kursus Mahir Lanjutan Kepramukaan",
+    "create_date": "2014-07-23 14:33:43.5",
+    "last_update": "2022-07-01 22:05:22.366",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.366"
+  },
+  {
+    "jenis_diklat_id": 15,
+    "nama": "Diklat Instruktur Kurikulum",
+    "create_date": "2016-07-22 06:00:00",
+    "last_update": "2022-07-01 22:05:22.366",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.366"
+  },
+  {
+    "jenis_diklat_id": 16,
+    "nama": "Pelatihan Industri",
+    "create_date": "2020-02-13 12:00:00",
+    "last_update": "2022-07-01 22:05:22.367",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.367"
+  },
+  {
+    "jenis_diklat_id": 99,
+    "nama": "Lainnya",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.367",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.367"
+  }
+]

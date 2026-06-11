@@ -1,0 +1,52 @@
+[
+  {
+    "kerusakan_id": 0.0,
+    "klasifikasi": "Tidak ada kerusakan",
+    "u_bangunan": 1.0,
+    "u_ruang": 1.0,
+    "create_date": "2022-06-21 15:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kerusakan_id": 2.0,
+    "klasifikasi": "Rusak Ringan",
+    "u_bangunan": 1.0,
+    "u_ruang": 1.0,
+    "create_date": "2022-06-21 15:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kerusakan_id": 3.0,
+    "klasifikasi": "Rusak Sedang",
+    "u_bangunan": 1.0,
+    "u_ruang": 1.0,
+    "create_date": "2022-06-21 15:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kerusakan_id": 5.0,
+    "klasifikasi": "Rusak Berat",
+    "u_bangunan": 1.0,
+    "u_ruang": 1.0,
+    "create_date": "2022-06-21 15:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kerusakan_id": 99.0,
+    "klasifikasi": "-",
+    "u_bangunan": 0.0,
+    "u_ruang": 0.0,
+    "create_date": "2022-06-09 21:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": "2022-06-09 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

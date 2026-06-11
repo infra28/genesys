@@ -1,0 +1,317 @@
+[
+  {
+    "pangkat_golongan_id": 21.0,
+    "kode": "I",
+    "nama": "I",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 22.0,
+    "kode": "II",
+    "nama": "II",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 23.0,
+    "kode": "III",
+    "nama": "III",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 24.0,
+    "kode": "IV",
+    "nama": "IV",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 25.0,
+    "kode": "V",
+    "nama": "V",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 26.0,
+    "kode": "VI",
+    "nama": "VI",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 27.0,
+    "kode": "VII",
+    "nama": "VII",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 28.0,
+    "kode": "VIII",
+    "nama": "VIII",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 29.0,
+    "kode": "IX",
+    "nama": "IX",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 30.0,
+    "kode": "X",
+    "nama": "X",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 31.0,
+    "kode": "XI",
+    "nama": "XI",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 32.0,
+    "kode": "XII",
+    "nama": "XII",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 33.0,
+    "kode": "XIII",
+    "nama": "XIII",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 34.0,
+    "kode": "XIV",
+    "nama": "XIV",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 1.0,
+    "kode": "I/a",
+    "nama": "I/a",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 2.0,
+    "kode": "I/b",
+    "nama": "I/b",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 3.0,
+    "kode": "I/c",
+    "nama": "I/c",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 4.0,
+    "kode": "I/d",
+    "nama": "I/d",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 35.0,
+    "kode": "XV",
+    "nama": "XV",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 36.0,
+    "kode": "XVI",
+    "nama": "XVI",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 37.0,
+    "kode": "XVII",
+    "nama": "XVII",
+    "create_date": "2021-03-03 00:00:00",
+    "last_update": "2021-01-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 5.0,
+    "kode": "II/a",
+    "nama": "II/a",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 6.0,
+    "kode": "II/b",
+    "nama": "II/b",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 7.0,
+    "kode": "II/c",
+    "nama": "II/c",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 8.0,
+    "kode": "II/d",
+    "nama": "II/d",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 9.0,
+    "kode": "III/a",
+    "nama": "III/a",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 10.0,
+    "kode": "III/b",
+    "nama": "III/b",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 11.0,
+    "kode": "III/c",
+    "nama": "III/c",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 12.0,
+    "kode": "III/d",
+    "nama": "III/d",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 13.0,
+    "kode": "IV/a",
+    "nama": "IV/a",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 14.0,
+    "kode": "IV/b",
+    "nama": "IV/b",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 15.0,
+    "kode": "IV/c",
+    "nama": "IV/c",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 16.0,
+    "kode": "IV/d",
+    "nama": "IV/d",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 17.0,
+    "kode": "IV/e",
+    "nama": "IV/e",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "pangkat_golongan_id": 99.0,
+    "kode": "-",
+    "nama": "-",
+    "create_date": "2013-04-30 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

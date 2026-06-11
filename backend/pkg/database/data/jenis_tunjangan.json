@@ -1,0 +1,122 @@
+[
+  {
+    "jenis_tunjangan_id": 1,
+    "nama": "Tunjangan Profesi Guru",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.478",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.478"
+  },
+  {
+    "jenis_tunjangan_id": 2,
+    "nama": "Tunjangan Anak",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.479",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.479"
+  },
+  {
+    "jenis_tunjangan_id": 3,
+    "nama": "Tunjangan Istri/Suami",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.479",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.479"
+  },
+  {
+    "jenis_tunjangan_id": 4,
+    "nama": "Tunjangan Beras",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.479",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.479"
+  },
+  {
+    "jenis_tunjangan_id": 5,
+    "nama": "Tunjangan Umum PNS",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.479",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.479"
+  },
+  {
+    "jenis_tunjangan_id": 6,
+    "nama": "Tunjangan Khusus Guru/Dosen",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.479",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.479"
+  },
+  {
+    "jenis_tunjangan_id": 7,
+    "nama": "Tunjangan Medis",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.48",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.48"
+  },
+  {
+    "jenis_tunjangan_id": 8,
+    "nama": "Tunjangan Umum PNS",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.48",
+    "expired_date": "2014-10-18 16:45:00",
+    "last_sync": "2022-07-01 22:05:22.48"
+  },
+  {
+    "jenis_tunjangan_id": 9,
+    "nama": "Tunjangan Pegawai Non PNS",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.48",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.48"
+  },
+  {
+    "jenis_tunjangan_id": 10,
+    "nama": "Tunjangan Hari Tua",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.48",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.48"
+  },
+  {
+    "jenis_tunjangan_id": 11,
+    "nama": "Bantuan peningkatan  kulifikasi akademik",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.48",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.48"
+  },
+  {
+    "jenis_tunjangan_id": 12,
+    "nama": "Tunjangan Guru Daerah khusus",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.481",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.481"
+  },
+  {
+    "jenis_tunjangan_id": 13,
+    "nama": "Tunjangan Fungsional non PNS ",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.481",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.481"
+  },
+  {
+    "jenis_tunjangan_id": 14,
+    "nama": "Tunjangan  Pendidikan Khusus & Layanan Khusus",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.481",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.481"
+  },
+  {
+    "jenis_tunjangan_id": 99,
+    "nama": "Lainnya",
+    "create_date": "2013-05-25 00:00:00",
+    "last_update": "2022-07-01 22:05:22.481",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.481"
+  }
+]

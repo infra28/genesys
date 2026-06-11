@@ -22,7 +22,6 @@
     "@formatjs/intl-relativetimeformat": "^11.4.11",
     "@hookform/resolvers": "^5.2.1",
     "@remixicon/react": "^4.6.0",
-    "@supabase/supabase-js": "^2.56.0",
     "@tailwindcss/vite": "^4.1.17",
     "@tanstack/react-query": "^5.85.5",
     "@tanstack/react-query-devtools": "^5.85.5",

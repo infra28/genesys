@@ -18,7 +18,7 @@ const StartNow = () => {
         `}
       </style>
 
-      <Card className="flex-col gap-5 justify-between bg-[center_top_1.3rem] bg-no-repeat pt-5 lg:pt-10 px-5 start-now-bg bg-[length:700px]">
+      <Card className="flex-col gap-5 justify-between bg-position-[center_top_1.3rem] bg-no-repeat pt-5 lg:pt-10 px-5 start-now-bg bg-size-[700px]">
         <div className="text-center">
           <h3 className="text-mono text-lg font-semibold leading-6 mb-1.5">
             Individually Tailored

@@ -1,0 +1,407 @@
+[
+  {
+    "akses_internet_id": 18,
+    "nama": "Firstmedia",
+    "media": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 19,
+    "nama": "Linknet",
+    "media": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 20,
+    "nama": "CNI (Wavelan)",
+    "media": 4.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 21,
+    "nama": "CNI (Serat Optik)",
+    "media": 2.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 22,
+    "nama": "3 (Tri)",
+    "media": 3.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 23,
+    "nama": "Axis",
+    "media": 3.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 31,
+    "nama": "1 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 32,
+    "nama": "2 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 33,
+    "nama": "3 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 34,
+    "nama": "5 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 35,
+    "nama": "10 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 36,
+    "nama": "20 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 37,
+    "nama": "30 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 38,
+    "nama": "40 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 39,
+    "nama": "50 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 40,
+    "nama": "100 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 41,
+    "nama": "150 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 42,
+    "nama": "200 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 43,
+    "nama": "250 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 44,
+    "nama": "300 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 45,
+    "nama": "500 Mb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 46,
+    "nama": "1 Gb",
+    "media": 1.0,
+    "create_date": "2023-07-10 09:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 91,
+    "nama": "Lainnya (Kabel)",
+    "media": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 92,
+    "nama": "Lainnya (Serat Optik)",
+    "media": 2.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 93,
+    "nama": "Lainnya (Wavelan)",
+    "media": 4.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 94,
+    "nama": "Lainnya (Satelit)",
+    "media": 5.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 99,
+    "nama": "Lainnya",
+    "media": 9.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 1,
+    "nama": "Jardiknas",
+    "media": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 2,
+    "nama": "Telkom Speedy",
+    "media": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 3,
+    "nama": "Telkom Astinet",
+    "media": 2.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 4,
+    "nama": "Telkomsel Flash",
+    "media": 3.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 5,
+    "nama": "Indosat Mentari",
+    "media": 3.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 6,
+    "nama": "Indosat IM3",
+    "media": 3.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 0,
+    "nama": "Tidak Ada",
+    "media": 9.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 7,
+    "nama": "Indosat IM2",
+    "media": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 8,
+    "nama": "Indosat IM2 (Satelit)",
+    "media": 5.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 9,
+    "nama": "XL (GSM)",
+    "media": 3.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 10,
+    "nama": "XL (Serat Optik)",
+    "media": 2.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 11,
+    "nama": "Smartfren",
+    "media": 3.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 12,
+    "nama": "Esia AHA",
+    "media": 3.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 13,
+    "nama": "CBN",
+    "media": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 14,
+    "nama": "Centrin (Kabel)",
+    "media": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 15,
+    "nama": "Centrin (Wavelan)",
+    "media": 4.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 16,
+    "nama": "Biznet (Kabel)",
+    "media": 1.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akses_internet_id": 17,
+    "nama": "Biznet (Serat Optik)",
+    "media": 2.0,
+    "create_date": "2013-07-09 00:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": "2023-07-10 09:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

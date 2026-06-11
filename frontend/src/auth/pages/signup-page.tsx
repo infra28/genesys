@@ -118,9 +118,9 @@ export function SignUpPage() {
           name="firstName"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>First Name</FormLabel>
+              <FormLabel>Nama Lengkap</FormLabel>
               <FormControl>
-                <Input placeholder="Enter your first name" {...field} />
+                <Input placeholder="Nama Lengkap" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -132,9 +132,9 @@ export function SignUpPage() {
           name="lastName"
           render={({ field }) => (
             <FormItem>
-              <FormLabel>Last Name</FormLabel>
+              <FormLabel>NISN</FormLabel>
               <FormControl>
-                <Input placeholder="Enter your last name" {...field} />
+                <Input placeholder="NISN" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -149,7 +149,7 @@ export function SignUpPage() {
               <FormLabel>Email</FormLabel>
               <FormControl>
                 <Input
-                  placeholder="Your email address"
+                  placeholder="example@gmail.com"
                   type="email"
                   {...field}
                 />

@@ -1,0 +1,370 @@
+[
+  {
+    "jenis_ptk_id": 3.0,
+    "jenis_ptk": "Guru Kelas",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 4.0,
+    "jenis_ptk": "Guru Mapel",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 5.0,
+    "jenis_ptk": "Guru BK",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 6.0,
+    "jenis_ptk": "Guru Pendamping Khusus",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 7.0,
+    "jenis_ptk": "Pengawas Satuan Pendidikan",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 8.0,
+    "jenis_ptk": "Pengawas PLB",
+    "create_date": "2013-09-05 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 14.0,
+    "jenis_ptk": "Guru TIK",
+    "create_date": "2014-05-08 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 15.0,
+    "jenis_ptk": "Guru Pengganti",
+    "create_date": "2019-03-09 22:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 20.0,
+    "jenis_ptk": "Kepala Sekolah",
+    "create_date": "2017-07-18 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 25.0,
+    "jenis_ptk": "Pengawas BK",
+    "create_date": "2017-02-07 18:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 26.0,
+    "jenis_ptk": "Pengawas SD",
+    "create_date": "2017-02-07 18:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 30.0,
+    "jenis_ptk": "Laboran",
+    "create_date": "2014-05-08 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 40.0,
+    "jenis_ptk": "Tenaga Perpustakaan",
+    "create_date": "2014-05-08 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 41.0,
+    "jenis_ptk": "Tukang Kebun",
+    "create_date": "2016-07-22 06:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 42.0,
+    "jenis_ptk": "Penjaga Sekolah",
+    "create_date": "2016-07-22 06:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 43.0,
+    "jenis_ptk": "Petugas Keamanan",
+    "create_date": "2016-07-22 06:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 99.0,
+    "jenis_ptk": "Lainnya",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2017-01-31 11:00:00",
+    "expired_date": "2017-01-30 11:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 44.0,
+    "jenis_ptk": "Pesuruh/Office Boy",
+    "create_date": "2016-07-22 06:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 45.0,
+    "jenis_ptk": "Terapis",
+    "create_date": "2019-02-20 19:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 51.0,
+    "jenis_ptk": "Academic Advisor",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 52.0,
+    "jenis_ptk": "Academic Specialist",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 53.0,
+    "jenis_ptk": "Curriculum Development Advisor",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 54.0,
+    "jenis_ptk": "Kindergarten Teacher",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 55.0,
+    "jenis_ptk": "Management Advisor",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 56.0,
+    "jenis_ptk": "Play Group Teacher",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 57.0,
+    "jenis_ptk": "Principal",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 58.0,
+    "jenis_ptk": "Teaching Assistant",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 59.0,
+    "jenis_ptk": "Vice Principal",
+    "create_date": "2015-05-14 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 16.0,
+    "jenis_ptk": "Guru Pembimbing Khusus",
+    "create_date": "2020-02-12 11:16:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 81.0,
+    "jenis_ptk": "Pengawas PaudDikmas",
+    "create_date": "2019-05-01 11:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 82.0,
+    "jenis_ptk": "Penilik",
+    "create_date": "2019-05-01 11:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 60.0,
+    "jenis_ptk": "Instruktur",
+    "create_date": "2016-07-24 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "2016-07-24 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 61.0,
+    "jenis_ptk": "Penguji",
+    "create_date": "2016-07-24 16:35:57.987",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 62.0,
+    "jenis_ptk": "Master Penguji",
+    "create_date": "2016-07-24 16:36:23.427",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 63.0,
+    "jenis_ptk": "Tutor",
+    "create_date": "2016-07-24 16:36:49.237",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 64.0,
+    "jenis_ptk": "Pamong Belajar",
+    "create_date": "2016-07-24 16:37:11.527",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 17.0,
+    "jenis_ptk": "Instruktur Kejuruan",
+    "create_date": "2020-06-30 08:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 91.0,
+    "jenis_ptk": "Kepala Sekolah",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 92.0,
+    "jenis_ptk": "Guru",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 93.0,
+    "jenis_ptk": "Tenaga Kependidikan",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 94.0,
+    "jenis_ptk": "Pengawas",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 9.0,
+    "jenis_ptk": "Pengawas Metpel/Rumpun",
+    "create_date": "2013-09-05 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 10.0,
+    "jenis_ptk": "Pengawas Bidang",
+    "create_date": "2013-09-05 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 11.0,
+    "jenis_ptk": "Tenaga Administrasi Sekolah",
+    "create_date": "2013-09-05 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 12.0,
+    "jenis_ptk": "Guru Pendamping",
+    "create_date": "2013-09-30 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_ptk_id": 13.0,
+    "jenis_ptk": "Guru Magang",
+    "create_date": "2013-09-30 00:00:00",
+    "last_update": "2024-07-17 00:00:00",
+    "expired_date": "2024-06-14 21:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

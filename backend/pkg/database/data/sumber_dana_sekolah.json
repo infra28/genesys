@@ -1,0 +1,74 @@
+[
+  {
+    "sumber_dana_sekolah_id": 1.0,
+    "nama": "Iuran Orangtua",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_sekolah_id": 2.0,
+    "nama": "Donatur Tetap",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_sekolah_id": 3.0,
+    "nama": "Yayasan/Ormas",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_sekolah_id": 4.0,
+    "nama": "Perusahaan",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_sekolah_id": 5.0,
+    "nama": "Pemerintah Desa/Kelurahan",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_sekolah_id": 6.0,
+    "nama": "APBD Kab/Kota",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_sekolah_id": 7.0,
+    "nama": "APBD Provinsi",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_sekolah_id": 8.0,
+    "nama": "APBN",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_sekolah_id": 9.0,
+    "nama": "Lainnya",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

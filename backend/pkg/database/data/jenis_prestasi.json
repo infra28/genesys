@@ -1,0 +1,34 @@
+[
+  {
+    "jenis_prestasi_id": 1,
+    "nama": "Sains",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.344",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.344"
+  },
+  {
+    "jenis_prestasi_id": 2,
+    "nama": "Seni",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.345",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.345"
+  },
+  {
+    "jenis_prestasi_id": 3,
+    "nama": "Olahraga",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.345",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.345"
+  },
+  {
+    "jenis_prestasi_id": 9,
+    "nama": "Lain-lain",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.345",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.345"
+  }
+]

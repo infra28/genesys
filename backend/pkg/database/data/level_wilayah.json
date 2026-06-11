@@ -1,0 +1,42 @@
+[
+  {
+    "id_level_wilayah": 0,
+    "level_wilayah": "Indonesia",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-01-02 15:24:09.296",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:09.296"
+  },
+  {
+    "id_level_wilayah": 1,
+    "level_wilayah": "Propinsi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-01-02 15:24:09.296",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:09.296"
+  },
+  {
+    "id_level_wilayah": 2,
+    "level_wilayah": "Kab / Kota",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-01-02 15:24:09.297",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:09.297"
+  },
+  {
+    "id_level_wilayah": 3,
+    "level_wilayah": "Kecamatan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-01-02 15:24:09.297",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:09.297"
+  },
+  {
+    "id_level_wilayah": 4,
+    "level_wilayah": "Desa",
+    "create_date": "2015-07-31 00:00:00",
+    "last_update": "2026-01-02 15:24:09.297",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:09.297"
+  }
+]

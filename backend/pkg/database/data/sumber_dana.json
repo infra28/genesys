@@ -1,0 +1,234 @@
+[
+  {
+    "sumber_dana_id": 1.0,
+    "nama": "Direktorat PSD",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 2.0,
+    "nama": "Direktorat PSMP",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 3.0,
+    "nama": "Direktorat PSMA",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 4.0,
+    "nama": "Direktorat PSMK",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 5.0,
+    "nama": "Direktorat PKLK Dikdas",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 6.0,
+    "nama": "Direktorat PKLK Dikmen",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 7.0,
+    "nama": "Direktorat P2TK Dikdas",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 8.0,
+    "nama": "Direktorat P2TK Dikmen",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 9.0,
+    "nama": "Sekretariat Dikdas",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 10.0,
+    "nama": "Sekretariat Dikmen",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 11.0,
+    "nama": "Sekretariat Paud Dikmas",
+    "create_date": "2015-08-31 00:00:00",
+    "last_update": "2015-08-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 12.0,
+    "nama": "Direktorat PAUD",
+    "create_date": "2015-08-31 00:00:00",
+    "last_update": "2015-08-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 13.0,
+    "nama": "Direktorat Pendidikan Keluarga",
+    "create_date": "2015-08-31 00:00:00",
+    "last_update": "2015-08-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 14.0,
+    "nama": "Direktorat Pendidikan Keaksaraan dan Kesetaraan",
+    "create_date": "2015-08-31 00:00:00",
+    "last_update": "2015-08-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 15.0,
+    "nama": "Direktorat Kursus dan Pelatihan",
+    "create_date": "2015-08-31 00:00:00",
+    "last_update": "2015-08-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 21.0,
+    "nama": "Biro PKLN",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 22.0,
+    "nama": "Pustekkom",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 23.0,
+    "nama": "Puskurbuk",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 24.0,
+    "nama": "Puspendik",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 31.0,
+    "nama": "Balitbang",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 41.0,
+    "nama": "Badan PSDMPK dan PMP",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 51.0,
+    "nama": "Dikti",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 61.0,
+    "nama": "Dinas Propinsi",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 62.0,
+    "nama": "Dinas Kabupaten",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 661.0,
+    "nama": "CSR suatu perusahaan/institusi",
+    "create_date": "2016-06-23 00:00:00",
+    "last_update": "2016-06-23 00:00:00",
+    "expired_date": null,
+    "last_sync": "2016-06-23 00:00:00"
+  },
+  {
+    "sumber_dana_id": 662.0,
+    "nama": "Swadaya/Mandiri",
+    "create_date": "2016-06-23 00:00:00",
+    "last_update": "2016-06-23 19:19:36.713",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 991.0,
+    "nama": "Bantuan Swasta",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 992.0,
+    "nama": "Bantuan Asing",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_dana_id": 999.0,
+    "nama": "Lainnya",
+    "create_date": "2013-09-01 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

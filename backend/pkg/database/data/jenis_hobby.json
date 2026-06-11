@@ -1,0 +1,242 @@
+[
+  {
+    "id_hobby": 11.0,
+    "nm_hobby": "Fotografi",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 12.0,
+    "nm_hobby": "Fitness",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 13.0,
+    "nm_hobby": "Belanja",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 14.0,
+    "nm_hobby": "Menggambar",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 15.0,
+    "nm_hobby": "Bermain Musik",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 16.0,
+    "nm_hobby": "mendaki",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 17.0,
+    "nm_hobby": "Jogging",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 18.0,
+    "nm_hobby": "Bermain Gitar",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 19.0,
+    "nm_hobby": "Bermain Bola",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 20.0,
+    "nm_hobby": "Bermain Bulu Tangkis",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": -1.0,
+    "nm_hobby": "(belum diisi)",
+    "create_date": "2015-07-30 01:47:22.517",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 1.0,
+    "nm_hobby": "Olah Raga",
+    "create_date": "2015-07-30 13:32:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 2.0,
+    "nm_hobby": "Kesenian",
+    "create_date": "2015-07-30 13:32:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 3.0,
+    "nm_hobby": "Membaca",
+    "create_date": "2015-07-30 13:32:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 4.0,
+    "nm_hobby": "Menulis",
+    "create_date": "2015-07-30 13:32:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 5.0,
+    "nm_hobby": "Traveling",
+    "create_date": "2015-07-30 13:32:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 6.0,
+    "nm_hobby": "Lainnya",
+    "create_date": "2015-07-30 13:32:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 21.0,
+    "nm_hobby": "Bermain Bola Tenis",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 22.0,
+    "nm_hobby": "Bermain Biola",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 23.0,
+    "nm_hobby": "Bermain Piano",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 24.0,
+    "nm_hobby": "Berlari",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 25.0,
+    "nm_hobby": "Berkemah",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 26.0,
+    "nm_hobby": "Memancing",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 27.0,
+    "nm_hobby": "Berselancar",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 28.0,
+    "nm_hobby": "Bermain Gitar",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 29.0,
+    "nm_hobby": "Bermain Boneka",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 30.0,
+    "nm_hobby": "Makan",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 31.0,
+    "nm_hobby": "Menjahit",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 32.0,
+    "nm_hobby": "Main Puzzle",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_hobby": 33.0,
+    "nm_hobby": "Mewarnai",
+    "create_date": "2021-01-29 02:00:00",
+    "last_update": "2021-01-31 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

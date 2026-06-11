@@ -1,0 +1,155 @@
+[
+  {
+    "id_jns_ks": 999998.0,
+    "nm_jns_ks": "Lainnya",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 999999.0,
+    "nm_jns_ks": "Tidak diisi",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2016-06-23 11:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 1.0,
+    "nm_jns_ks": "Magang Praktek Kerja Industri (Prakerin) Siswa SMK",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2021-07-20 14:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 2.0,
+    "nm_jns_ks": "Magang Praktek Kerja Industri (Prakerin) Guru SMK",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2021-07-20 14:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 3.0,
+    "nm_jns_ks": "Pembelajaran Berbasis Proyek Nyata dari Dunia Kerja (TEFA)",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2021-07-20 14:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 4.0,
+    "nm_jns_ks": "Penyelarasan Kurikulum",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2021-07-20 14:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 12.0,
+    "nm_jns_ks": "Sertifikasi Kompetensi",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2021-07-20 14:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 13.0,
+    "nm_jns_ks": "Pelatihan dari Dunia Kerja",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2021-07-20 14:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 14.0,
+    "nm_jns_ks": "Penyerapan Lulusan",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2021-07-20 14:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 15.0,
+    "nm_jns_ks": "Guru/Dosen/Tenaga Ahli dari Dunia Kerja",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2021-07-20 14:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 18.0,
+    "nm_jns_ks": "Riset Terapan",
+    "ket_jns_ks": null,
+    "create_date": "2021-07-15 14:00:00",
+    "last_update": "2021-07-15 14:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 19.0,
+    "nm_jns_ks": "Beasiswa",
+    "ket_jns_ks": null,
+    "create_date": "2021-07-15 14:00:00",
+    "last_update": "2021-07-15 14:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 20.0,
+    "nm_jns_ks": "Ikatan Dinas",
+    "ket_jns_ks": null,
+    "create_date": "2021-07-15 14:00:00",
+    "last_update": "2021-07-15 14:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 5.0,
+    "nm_jns_ks": "Kerjasama Komersial",
+    "ket_jns_ks": null,
+    "create_date": "2016-07-14 23:48:02.573",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 11.0,
+    "nm_jns_ks": "Bantuan Sarana Prasarana",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2016-10-27 19:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 16.0,
+    "nm_jns_ks": "CSR",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2016-10-27 19:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_ks": 17.0,
+    "nm_jns_ks": "Lomba Kompetensi Siswa",
+    "ket_jns_ks": null,
+    "create_date": "2016-10-27 18:30:00",
+    "last_update": "2016-10-27 19:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

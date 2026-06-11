@@ -1,26 +1,25 @@
 import { useEffect, useState } from 'react';
 import { useAuth } from '@/auth/context/auth-context';
 import { useNavigate, useSearchParams } from 'react-router-dom';
-import { supabase } from '@/lib/supabase';
 
 /**
  * Callback page for OAuth authentication redirects.
- * This component handles the authentication flow after a user signs in with a third-party provider.
+ * This component handles the authentication flow after a user signs in with a third-party provider via your Go backend.
  */
 export function CallbackPage() {
   const [searchParams] = useSearchParams();
   const navigate = useNavigate();
   const [error, setError] = useState<string | null>(null);
-  const { saveAuth, setUser: setCurrentUser } = useAuth();
+  const { saveAuth } = useAuth();
 
   useEffect(() => {
-    // Get error parameters
+    // Tangkap parameter error jika proses OAuth di backend gagal
     const errorParam = searchParams.get('error');
     const errorDescription = searchParams.get('error_description');
 
     if (errorParam) {
       setError(errorDescription || 'Authentication failed');
-      // After a delay, redirect to signin page with error params
+      // Redirect kembali ke halaman signin setelah beberapa detik
       setTimeout(() => {
         navigate(
           `/auth/signin?error=${errorParam}&error_description=${encodeURIComponent(errorDescription || 'Authentication failed')}`,
@@ -29,48 +28,43 @@ export function CallbackPage() {
       return;
     }
 
-    // The supabase client will automatically handle setting up the session
-    // We need to get the session and integrate it with our auth context
     const handleCallback = async () => {
       try {
-        console.log('Processing OAuth callback');
+        console.log('Processing OAuth callback from custom backend');
 
-        // Get the session from Supabase
-        const { data, error } = await supabase.auth.getSession();
+        // Tangkap token yang dikirimkan oleh backend Go melalui URL parameter
+        // Biasanya backend akan me-redirect ke: /auth/callback?access_token=xyz...
+        const accessToken = searchParams.get('access_token') || searchParams.get('token');
+        const refreshToken = searchParams.get('refresh_token') || '';
 
-        if (error) {
-          console.error('Error getting session:', error);
-          throw error;
+        if (!accessToken) {
+          throw new Error('Token akses tidak ditemukan di URL');
         }
 
-        if (!data.session) {
-          console.error('No session found after OAuth callback');
-          throw new Error('Authentication session not established');
-        }
+        console.log('Token obtained successfully from URL');
 
-        console.log('Session obtained successfully from OAuth provider');
-
-        // Create auth model from session data (same structure as used in regular login)
+        // Bentuk model auth sesuai standar aplikasi Anda
         const authModel = {
-          access_token: data.session.access_token,
-          refresh_token: data.session.refresh_token,
+          access_token: accessToken,
+          refresh_token: refreshToken,
         };
 
-        // Save auth data to context and local storage
+        // Simpan token ke localStorage secara manual agar BackendAdapter bisa membacanya
+        localStorage.setItem('access_token', accessToken);
+
+        // Simpan data auth ke dalam React Context
         saveAuth(authModel);
         console.log('Auth data saved to context');
 
-        // Get the next URL - either from query param or default to root
+        // Ambil URL tujuan berikutnya (jika ada) atau arahkan ke root (dashboard)
         const nextPath = searchParams.get('next') || '/';
 
-        // Navigate to the target page
         console.log('Redirecting to:', nextPath);
         navigate(nextPath);
       } catch (err) {
         console.error('Error processing OAuth callback:', err);
         setError('An unexpected error occurred during authentication');
 
-        // Redirect to login page after showing error
         setTimeout(() => {
           navigate(
             '/auth/signin?error=auth_callback_error&error_description=Failed to complete authentication',
@@ -80,7 +74,7 @@ export function CallbackPage() {
     };
 
     handleCallback();
-  }, [navigate, searchParams, saveAuth, setCurrentUser]);
+  }, [navigate, searchParams, saveAuth]);
 
   return (
     <div className="flex flex-col items-center justify-center min-h-screen p-4 text-center">
@@ -92,7 +86,13 @@ export function CallbackPage() {
           <p className="text-muted-foreground">{error}</p>
           <p className="text-sm">Redirecting to sign-in page...</p>
         </div>
-      ) : null}
+      ) : (
+        <div className="space-y-4">
+          {/* Anda bisa menambahkan animasi loading di sini jika mau */}
+          <h2 className="text-xl font-semibold">Authenticating...</h2>
+          <p className="text-muted-foreground">Please wait while we complete your sign in.</p>
+        </div>
+      )}
     </div>
   );
 }

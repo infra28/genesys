@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { SupabaseAdapter } from '@/auth/adapters/supabase-adapter';
 import { useAuth } from '@/auth/context/auth-context';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { AlertCircle, Check, Eye, EyeOff } from 'lucide-react';
@@ -20,6 +19,7 @@ import { Input } from '@/components/ui/input';
 import { Icons } from '@/components/common/icons';
 import { getSigninSchema, SigninSchemaType } from '../forms/signin-schema';
 import { LoaderCircleIcon } from 'lucide-react';
+import { BackendAdapter } from '@/auth/adapters/backend-adapter';
 
 export function SignInPage() {
   const [searchParams] = useSearchParams();
@@ -73,11 +73,11 @@ export function SignInPage() {
 
   const form = useForm<SigninSchemaType>({
     resolver: zodResolver(getSigninSchema()),
-    defaultValues: {
-      email: 'demo@kt.com',
-      password: 'demo123',
-      rememberMe: true,
-    },
+    // defaultValues: {
+    //   email: 'demo@kt.com',
+    //   password: 'demo123',
+    //   rememberMe: true,
+    // },
   });
 
   async function onSubmit(values: SigninSchemaType) {
@@ -130,7 +130,8 @@ export function SignInPage() {
       console.log('Initiating Google sign-in with redirect:', redirectTo);
 
       // Use our adapter to initiate the OAuth flow
-      await SupabaseAdapter.signInWithOAuth('google', { redirectTo });
+      // await SupabaseAdapter.signInWithOAuth('google', { redirectTo });
+      await BackendAdapter.signInWithOAuth('google', { redirectTo });
 
       // The browser will be redirected automatically
     } catch (err) {
@@ -157,7 +158,7 @@ export function SignInPage() {
           </p>
         </div>
 
-        <Alert appearance="light" size="sm" close={false}>
+        {/* <Alert appearance="light" size="sm" close={false}>
           <AlertIcon>
             <AlertCircle className="text-primary" />
           </AlertIcon>
@@ -165,7 +166,7 @@ export function SignInPage() {
             Use <strong>demo@kt.com</strong> username and {` `}
             <strong>demo123</strong> password for demo access.
           </AlertTitle>
-        </Alert>
+        </Alert> */}
 
         <div className="flex flex-col gap-3.5">
           <Button
@@ -225,7 +226,7 @@ export function SignInPage() {
             <FormItem>
               <FormLabel>Email</FormLabel>
               <FormControl>
-                <Input placeholder="Your email" {...field} />
+                <Input placeholder="user@example.com" {...field} />
               </FormControl>
               <FormMessage />
             </FormItem>
@@ -242,7 +243,7 @@ export function SignInPage() {
               </div>
               <div className="relative">
                 <Input
-                  placeholder="Your password"
+                  placeholder="Password"
                   type={passwordVisible ? 'text' : 'password'} // Toggle input type
                   {...field}
                 />

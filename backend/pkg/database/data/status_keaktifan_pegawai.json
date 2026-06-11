@@ -1,0 +1,26 @@
+[
+  {
+    "status_keaktifan_id": 1.0,
+    "nama": "Aktif",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_keaktifan_id": 2.0,
+    "nama": "Tidak Aktif",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "status_keaktifan_id": 99.0,
+    "nama": "Lainnya",
+    "create_date": "2013-05-08 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

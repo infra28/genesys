@@ -1,0 +1,1138 @@
+[
+  {
+    "id_bank": "441",
+    "nm_bank": "BANK BUKOPIN",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "009",
+    "nm_bank": "BANK BNI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "011",
+    "nm_bank": "BANK DANAMON",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "013",
+    "nm_bank": "PERMATA BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "014",
+    "nm_bank": "BANK BCA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "016",
+    "nm_bank": "MAYBANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "019",
+    "nm_bank": "BANK PANIN",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "022",
+    "nm_bank": "BANK NIAGA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "023",
+    "nm_bank": "BANK BUANA IND",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "026",
+    "nm_bank": "BANK LIPPO",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "028",
+    "nm_bank": "BANK NISP",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "030",
+    "nm_bank": "AMERICAN EXPRESS BANK LTD",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "031",
+    "nm_bank": "CITIBANK N.A.",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "033",
+    "nm_bank": "BANK OF AMERICA, N.A",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "034",
+    "nm_bank": "ING INDONESIA BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "036",
+    "nm_bank": "BANK MULTICOR TBK.",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "037",
+    "nm_bank": "BANK ARTHA GRAHA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "040",
+    "nm_bank": "THE BANGKOK BANK COMP. LTD",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "041",
+    "nm_bank": "THE HONGKONG & SHANGHAI B.C.",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "042",
+    "nm_bank": "THE BANK OF TOKYO MITSUBISHI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "046",
+    "nm_bank": "BANK DBS INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "047",
+    "nm_bank": "BANK RESONA PERDANIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "059",
+    "nm_bank": "KOREA EXCHANGE BANK DANAMON",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "060",
+    "nm_bank": "RABOBANK INTL INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "061",
+    "nm_bank": "ANZ PANIN BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "067",
+    "nm_bank": "DEUTSCHE BANK AG.",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "068",
+    "nm_bank": "BANK WOORI INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "069",
+    "nm_bank": "BANK OF CHINA LIMITED",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "076",
+    "nm_bank": "BANK BUMI ARTA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "087",
+    "nm_bank": "BANK EKONOMI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "088",
+    "nm_bank": "BANK ANTARDAERAH",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "089",
+    "nm_bank": "BANK HAGA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "093",
+    "nm_bank": "BANK IFI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "095",
+    "nm_bank": "BANK CENTURY, TBK.",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "097",
+    "nm_bank": "BANK MAYAPADA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "110",
+    "nm_bank": "BANK JABAR",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "111",
+    "nm_bank": "BANK DKI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "113",
+    "nm_bank": "BANK JATENG",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "114",
+    "nm_bank": "BANK JATIM",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "115",
+    "nm_bank": "BPD JAMBI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "116",
+    "nm_bank": "BPD ACEH",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "117",
+    "nm_bank": "BANK SUMUT",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "118",
+    "nm_bank": "BANK NAGARI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "119",
+    "nm_bank": "BANK RIAU",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "120",
+    "nm_bank": "BANK SUMSEL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "122",
+    "nm_bank": "BPD KALSEL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "123",
+    "nm_bank": "BPD KALIMANTAN BARAT",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "124",
+    "nm_bank": "BPD KALTIM",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "125",
+    "nm_bank": "BPD KALTENG",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "126",
+    "nm_bank": "BPD SULSEL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "127",
+    "nm_bank": "BANK SULUT",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "128",
+    "nm_bank": "BPD NTB",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "129",
+    "nm_bank": "BPD BALI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "131",
+    "nm_bank": "BANK MALUKU",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "132",
+    "nm_bank": "BPD PAPUA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "133",
+    "nm_bank": "BANK BENGKULU",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "134",
+    "nm_bank": "BPD SULAWESI TENGAH",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "135",
+    "nm_bank": "BANK SULTRA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "145",
+    "nm_bank": "BANK NUSANTARA PARAHYANGAN",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "146",
+    "nm_bank": "BANK SWADESI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "147",
+    "nm_bank": "BANK MUAMALAT",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "152",
+    "nm_bank": "BANK METRO EXPRESS",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "153",
+    "nm_bank": "BANK SHINTA INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "157",
+    "nm_bank": "BANK MASPION",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "159",
+    "nm_bank": "BANK HAGAKITA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "161",
+    "nm_bank": "BANK GANESHA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "162",
+    "nm_bank": "BANK WINDU KENTJANA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "166",
+    "nm_bank": "BANK HARMONI INTERNATIONAL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "167",
+    "nm_bank": "BANK KESAWAN",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "200",
+    "nm_bank": "BANK TABUNGAN NEGARA (PERSERO)",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "212",
+    "nm_bank": "BANK HIMPUNAN SAUDARA 1906",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "213",
+    "nm_bank": "BANK TABUNGAN PENSIUNAN NAS",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "405",
+    "nm_bank": "BANK SWAGUNA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "422",
+    "nm_bank": "BANK JASA ARTA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "425",
+    "nm_bank": "BANK BJB SYARIAH",
+    "create_date": "2020-01-27 08:00:00",
+    "last_update": "2020-01-27 08:08:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "426",
+    "nm_bank": "BANK MEGA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "427",
+    "nm_bank": "BANK JASA JAKARTA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "459",
+    "nm_bank": "BANK BISNIS INTERNASIONAL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "466",
+    "nm_bank": "BANK SRI PARTHA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "472",
+    "nm_bank": "BANK JASA JAKARTA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "484",
+    "nm_bank": "BANK BINTANG MANUNGGAL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "485",
+    "nm_bank": "BANK BUMIPUTERA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "490",
+    "nm_bank": "BANK YUDHA BHAKTI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "491",
+    "nm_bank": "BANK MITRANIAGA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "494",
+    "nm_bank": "BANK AGRO NIAGA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "498",
+    "nm_bank": "BANK INDOMONEX",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "503",
+    "nm_bank": "BANK ALFINDO",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "506",
+    "nm_bank": "BANK SYARIAH MEGA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "513",
+    "nm_bank": "BANK INA PERDANA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "517",
+    "nm_bank": "BANK HARFA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "520",
+    "nm_bank": "PRIMA MASTER BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "521",
+    "nm_bank": "BANK PERSYARIKATAN INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "531",
+    "nm_bank": "ANGLOMAS INTERNASIONAL BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "535",
+    "nm_bank": "BANK KESEJAHTERAAN EKONOMI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "536",
+    "nm_bank": "BANK UIB",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "542",
+    "nm_bank": "BANK ARTOS IND",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "547",
+    "nm_bank": "BANK PURBA DANARTA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "548",
+    "nm_bank": "BANK MULTI ARTA SENTOSA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "553",
+    "nm_bank": "BANK MAYORA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "003",
+    "nm_bank": "BANK EKSPOR INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "008",
+    "nm_bank": "BANK MANDIRI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "523",
+    "nm_bank": "BANK DIPO INTERNATIONAL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "525",
+    "nm_bank": "BANK AKITA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "526",
+    "nm_bank": "LIMAN INTERNATIONAL BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "555",
+    "nm_bank": "BANK INDEX SELINDO",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "558",
+    "nm_bank": "BANK EKSEKUTIF",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "559",
+    "nm_bank": "CENTRATAMA NASIONAL BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "562",
+    "nm_bank": "BANK FAMA INTERNASIONAL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "564",
+    "nm_bank": "BANK SINAR HARAPAN BALI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "566",
+    "nm_bank": "BANK VICTORIA INTERNATIONAL",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "567",
+    "nm_bank": "BANK HARDA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "688",
+    "nm_bank": "BPR KS (KARYAJATNIKA SEDAYA)",
+    "create_date": "2020-01-27 08:00:00",
+    "last_update": "2020-01-27 08:08:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "789",
+    "nm_bank": "INDOSAT DOMPETKU",
+    "create_date": "2020-01-27 08:00:00",
+    "last_update": "2020-01-27 08:08:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "911",
+    "nm_bank": "TELKOMSEL TCASH",
+    "create_date": "2020-01-27 08:00:00",
+    "last_update": "2020-01-27 08:08:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "912",
+    "nm_bank": "LINKAJA",
+    "create_date": "2020-01-27 08:00:00",
+    "last_update": "2020-01-27 08:08:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "945",
+    "nm_bank": "BANK FINCONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "946",
+    "nm_bank": "BANK MERINCORP",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "947",
+    "nm_bank": "BANK MAYBANK INDOCORP",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "948",
+    "nm_bank": "BANK OCBC – INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "949",
+    "nm_bank": "BANK CHINA TRUST INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "950",
+    "nm_bank": "BANK COMMONWEALTH",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "POS",
+    "nm_bank": "KANTOR POS",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "002",
+    "nm_bank": "BANK BRI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "020",
+    "nm_bank": "BANK ARTA NIAGA KENCANA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "032",
+    "nm_bank": "JP. MORGAN CHASE BANK, N.A.",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "039",
+    "nm_bank": "BANK CREDIT AGRICOLE INDOSUEZ",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "045",
+    "nm_bank": "BANK SUMITOMO MITSUI INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "048",
+    "nm_bank": "BANK MIZUHO INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "050",
+    "nm_bank": "STANDARD CHARTERED BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "052",
+    "nm_bank": "BANK ABN AMRO",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "053",
+    "nm_bank": "BANK KEPPEL TATLEE BUANA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "054",
+    "nm_bank": "BANK CAPITAL INDONESIA, TBK.",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "057",
+    "nm_bank": "BANK BNP PARIBAS INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "058",
+    "nm_bank": "BANK UOB INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "112",
+    "nm_bank": "BPD DIY",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "121",
+    "nm_bank": "BANK LAMPUNG",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "130",
+    "nm_bank": "BANK NTT",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "137",
+    "nm_bank": "BANK BPD BANTEN",
+    "create_date": "2020-01-27 08:00:00",
+    "last_update": "2020-01-27 08:08:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "151",
+    "nm_bank": "BANK MESTIKA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "164",
+    "nm_bank": "HALIM INDONESIA BANK",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "451",
+    "nm_bank": "BANK SYARIAH MANDIRI",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_bank": "501",
+    "nm_bank": "BANK ROYAL INDONESIA",
+    "create_date": "2016-01-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

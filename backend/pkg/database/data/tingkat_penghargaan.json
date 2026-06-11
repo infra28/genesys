@@ -1,0 +1,58 @@
+[
+  {
+    "tingkat_penghargaan_id": 1,
+    "nama": "Sekolah",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.417",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.417"
+  },
+  {
+    "tingkat_penghargaan_id": 2,
+    "nama": "Kecamatan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.417",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.417"
+  },
+  {
+    "tingkat_penghargaan_id": 3,
+    "nama": "Kab/kota",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.418",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.418"
+  },
+  {
+    "tingkat_penghargaan_id": 4,
+    "nama": "Propinsi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.418",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.418"
+  },
+  {
+    "tingkat_penghargaan_id": 5,
+    "nama": "Nasional",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.418",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.418"
+  },
+  {
+    "tingkat_penghargaan_id": 6,
+    "nama": "Internasional",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.418",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.418"
+  },
+  {
+    "tingkat_penghargaan_id": 9,
+    "nama": "Lainnya",
+    "create_date": "2013-05-23 00:00:00",
+    "last_update": "2022-07-01 22:05:22.419",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.419"
+  }
+]

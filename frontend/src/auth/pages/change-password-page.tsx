@@ -1,10 +1,9 @@
-import { useEffect, useState } from 'react';
+import { useState } from 'react';
 import { useAuth } from '@/auth/context/auth-context';
 import { zodResolver } from '@hookform/resolvers/zod';
 import { AlertCircle, Check, Eye, EyeOff } from 'lucide-react';
 import { useForm } from 'react-hook-form';
 import { Link, useNavigate, useSearchParams } from 'react-router-dom';
-import { supabase } from '@/lib/supabase';
 import { Alert, AlertIcon, AlertTitle } from '@/components/ui/alert';
 import { Button } from '@/components/ui/button';
 import {
@@ -24,57 +23,22 @@ import {
 export function ChangePasswordPage() {
   const navigate = useNavigate();
   const [searchParams] = useSearchParams();
-  const {} = useAuth();
+  const { resetPassword } = useAuth(); // Menggunakan fungsi dari context
+  
   const [passwordVisible, setPasswordVisible] = useState(false);
   const [confirmPasswordVisible, setConfirmPasswordVisible] = useState(false);
   const [isProcessing, setIsProcessing] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [successMessage, setSuccessMessage] = useState<string | null>(null);
-  const [tokenValid, setTokenValid] = useState(false);
 
-  // Check for different possible token parameter names used by Supabase
-  // Supabase might use 'token', 'code', 'token_hash' or pass it as a URL hash
+  // Ambil token dari URL parameter atau hash fragment
+  const urlHashParams = new URLSearchParams(window.location.hash.substring(1));
   const token =
     searchParams.get('token') ||
     searchParams.get('code') ||
-    searchParams.get('token_hash');
-
-  console.log('Reset token from URL:', token);
-  console.log(
-    'All search parameters:',
-    Object.fromEntries(searchParams.entries()),
-  );
-
-  // Process Supabase recovery token
-  useEffect(() => {
-    // This automatically processes the token in the URL
-    const { data: authListener } = supabase.auth.onAuthStateChange((event) => {
-      if (event === 'PASSWORD_RECOVERY') {
-        // Token is valid and has been processed by Supabase
-        console.log('Password recovery mode activated');
-        setTokenValid(true);
-        setSuccessMessage('You can now set your new password');
-      }
-    });
-
-    return () => {
-      authListener.subscription.unsubscribe();
-    };
-  }, []);
-
-  // Also check for hash fragment which might contain the token
-  useEffect(() => {
-    const hashParams = new URLSearchParams(window.location.hash.substring(1));
-    const hashToken =
-      hashParams.get('token') ||
-      hashParams.get('code') ||
-      hashParams.get('token_hash');
-
-    if (hashToken && !token) {
-      console.log('Found token in URL hash fragment:', hashToken);
-      // Optionally, you could update the state or reload the page with the token as a query param
-    }
-  }, [token]);
+    searchParams.get('token_hash') ||
+    urlHashParams.get('token') ||
+    urlHashParams.get('access_token');
 
   const form = useForm<NewPasswordSchemaType>({
     resolver: zodResolver(getNewPasswordSchema()),
@@ -89,28 +53,32 @@ export function ChangePasswordPage() {
       setIsProcessing(true);
       setError(null);
 
-      // Use Supabase's updateUser method directly
-      // The token is already processed by the onAuthStateChange handler
-      const { error } = await supabase.auth.updateUser({
-        password: values.password,
-      });
-
-      if (error) {
-        throw new Error(error.message);
+      if (!token) {
+        throw new Error('Token reset password tidak ditemukan atau tidak valid.');
       }
 
-      // Set success message
-      setSuccessMessage('Password changed successfully!');
+      // Trik agar BackendAdapter bisa mengenali token ini:
+      // Kita simpan sementara token reset ke localStorage agar fungsi getAuthHeaders() 
+      // di BackendAdapter bisa membacanya dan menyisipkannya sebagai Bearer token.
+      localStorage.setItem('access_token', token);
 
-      // Reset form
+      // Panggil fungsi resetPassword dari useAuth
+      await resetPassword(values.password, values.confirmPassword);
+
+      // Setelah berhasil, bersihkan token dari localStorage
+      localStorage.removeItem('access_token');
+
+      setSuccessMessage('Password changed successfully!');
       form.reset();
 
-      // Redirect to login page after a successful password reset
       setTimeout(() => {
         navigate('/auth/signin');
       }, 2000);
     } catch (err) {
       console.error('Password reset error:', err);
+      // Pastikan token dibersihkan jika terjadi error
+      localStorage.removeItem('access_token');
+      
       setError(
         err instanceof Error
           ? err.message
@@ -121,7 +89,8 @@ export function ChangePasswordPage() {
     }
   }
 
-  if (!token && !tokenValid) {
+  // Jika tidak ada token sama sekali di URL, tampilkan panduan
+  if (!token) {
     return (
       <div className="max-w-md mx-auto space-y-5">
         <div className="text-center space-y-2">
@@ -155,6 +124,7 @@ export function ChangePasswordPage() {
     );
   }
 
+  // Jika ada token, tampilkan form ganti password
   return (
     <div className="max-w-md mx-auto">
       <Form {...form}>
@@ -257,7 +227,7 @@ export function ChangePasswordPage() {
           <Button type="submit" className="w-full" disabled={isProcessing}>
             {isProcessing ? (
               <span className="flex items-center gap-2">
-                <LoaderCircleIcon className="h-4 w-4" /> Updating Password...
+                <LoaderCircleIcon className="h-4 w-4 animate-spin" /> Updating Password...
               </span>
             ) : (
               'Reset Password'

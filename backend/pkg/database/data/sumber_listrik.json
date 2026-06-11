@@ -1,0 +1,66 @@
+[
+  {
+    "sumber_listrik_id": 1.0,
+    "nama": "Tidak Ada",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_listrik_id": 2.0,
+    "nama": "PLN",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_listrik_id": 3.0,
+    "nama": "Diesel",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_listrik_id": 4.0,
+    "nama": "Tenaga Surya",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_listrik_id": 6.0,
+    "nama": "Biogas",
+    "create_date": "2018-08-06 00:00:00",
+    "last_update": "2018-08-06 00:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_listrik_id": 9.0,
+    "nama": "Lainnya",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_listrik_id": 7.0,
+    "nama": "Menumpang",
+    "create_date": "2021-04-27 21:00:00",
+    "last_update": "2021-04-30 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_listrik_id": 5.0,
+    "nama": "PLN & Diesel",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-02-01 00:00:00",
+    "expired_date": "2026-01-01 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

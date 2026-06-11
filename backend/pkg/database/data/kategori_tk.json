@@ -1,0 +1,50 @@
+[
+  {
+    "kategori_tk_id": 1.0,
+    "nama": "TK Pembina",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kategori_tk_id": 2.0,
+    "nama": "TK Biasa",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kategori_tk_id": 3.0,
+    "nama": "TK-SD Satu Atap",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": "2018-08-02 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kategori_tk_id": 4.0,
+    "nama": "TK - LB",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": "2018-08-02 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kategori_tk_id": 5.0,
+    "nama": "TK-SPK",
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": "2018-08-02 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kategori_tk_id": 9.0,
+    "nama": "-",
+    "create_date": "2015-09-03 18:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": "2018-08-02 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

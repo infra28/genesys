@@ -1,0 +1,416 @@
+[
+  {
+    "variabel_id": "E1C36AEA-96CD-4FCB-9314-8AF8985E4525",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.403",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.403"
+  },
+  {
+    "variabel_id": "A88CA0EF-071D-4F25-B82D-B74640187F4E",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:27.073",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:27.073"
+  },
+  {
+    "variabel_id": "A88CA0EF-071D-4F25-B82D-B74640187F4E",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.66",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.66"
+  },
+  {
+    "variabel_id": "71AE7743-D31F-4503-B45B-0333E5772D40",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.967",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.967"
+  },
+  {
+    "variabel_id": "71AE7743-D31F-4503-B45B-0333E5772D40",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.563",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.563"
+  },
+  {
+    "variabel_id": "E185BC0A-46C8-4768-93D5-168353B4ABF2",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-07-07 14:56:09.1",
+    "last_update": "2022-08-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-07-07 14:56:09.1"
+  },
+  {
+    "variabel_id": "E185BC0A-46C8-4768-93D5-168353B4ABF2",
+    "value_id": 1,
+    "value_name": "2021",
+    "create_date": "2022-07-07 14:56:09.1",
+    "last_update": "2022-08-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-07-07 14:56:09.1"
+  },
+  {
+    "variabel_id": "E185BC0A-46C8-4768-93D5-168353B4ABF2",
+    "value_id": 2,
+    "value_name": "2022",
+    "create_date": "2022-07-07 20:05:00.817",
+    "last_update": "2022-08-01 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-07-07 20:05:00.817"
+  },
+  {
+    "variabel_id": "17B29881-30E5-44A0-AD69-26DB63634510",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.887",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.887"
+  },
+  {
+    "variabel_id": "17B29881-30E5-44A0-AD69-26DB63634510",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.46",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.46"
+  },
+  {
+    "variabel_id": "755DCA4F-6BB3-41B7-AEED-378E8B1C4928",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.863",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.863"
+  },
+  {
+    "variabel_id": "755DCA4F-6BB3-41B7-AEED-378E8B1C4928",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.433",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.433"
+  },
+  {
+    "variabel_id": "2147F515-692B-458F-969A-3D8AF89D419D",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.913",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.913"
+  },
+  {
+    "variabel_id": "2147F515-692B-458F-969A-3D8AF89D419D",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.51",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.51"
+  },
+  {
+    "variabel_id": "ED867347-ADF8-4036-98FA-4DA3BD821BB1",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.993",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.993"
+  },
+  {
+    "variabel_id": "ED867347-ADF8-4036-98FA-4DA3BD821BB1",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.59",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.59"
+  },
+  {
+    "variabel_id": "FAE11765-5641-4F5C-B435-67F65950AF8C",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:27.043",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:27.043"
+  },
+  {
+    "variabel_id": "FAE11765-5641-4F5C-B435-67F65950AF8C",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.637",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.637"
+  },
+  {
+    "variabel_id": "FAF16509-58EB-44B8-9F60-6F3B9F5331E5",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.76",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.76"
+  },
+  {
+    "variabel_id": "FAF16509-58EB-44B8-9F60-6F3B9F5331E5",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.32",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.32"
+  },
+  {
+    "variabel_id": "A6935411-99AB-4096-A8B3-82E053D64457",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:27.017",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:27.017"
+  },
+  {
+    "variabel_id": "A6935411-99AB-4096-A8B3-82E053D64457",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.613",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.613"
+  },
+  {
+    "variabel_id": "A55177EA-E28F-4936-BF3B-84451F612DB7",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-07-26 20:52:27.453",
+    "last_update": "2022-07-26 21:22:27.453",
+    "expired_date": null,
+    "last_sync": "2022-07-26 20:52:27.453"
+  },
+  {
+    "variabel_id": "A55177EA-E28F-4936-BF3B-84451F612DB7",
+    "value_id": 1,
+    "value_name": "2021",
+    "create_date": "2022-07-26 20:52:27.453",
+    "last_update": "2022-07-26 21:22:27.453",
+    "expired_date": null,
+    "last_sync": "2022-07-26 20:52:27.453"
+  },
+  {
+    "variabel_id": "A55177EA-E28F-4936-BF3B-84451F612DB7",
+    "value_id": 2,
+    "value_name": "2022",
+    "create_date": "2022-07-26 20:52:27.453",
+    "last_update": "2022-07-26 21:22:27.453",
+    "expired_date": null,
+    "last_sync": "2022-07-26 20:52:27.453"
+  },
+  {
+    "variabel_id": "E1C36AEA-96CD-4FCB-9314-8AF8985E4525",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.84",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.84"
+  },
+  {
+    "variabel_id": "863235E1-819E-4D9E-8F1B-C85D1DF3D481",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:27.1",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:27.1"
+  },
+  {
+    "variabel_id": "863235E1-819E-4D9E-8F1B-C85D1DF3D481",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.687",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.687"
+  },
+  {
+    "variabel_id": "39239FA5-C28B-4DFD-8E25-C8D000DA3C33",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.94",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.94"
+  },
+  {
+    "variabel_id": "39239FA5-C28B-4DFD-8E25-C8D000DA3C33",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.537",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.537"
+  },
+  {
+    "variabel_id": "C72DB6FF-3C74-41A7-BCD7-DB5201A0D7C9",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.813",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.813"
+  },
+  {
+    "variabel_id": "C72DB6FF-3C74-41A7-BCD7-DB5201A0D7C9",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.377",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.377"
+  },
+  {
+    "variabel_id": "5B4820A1-1E39-4C51-A03F-E70FB9B0F2B5",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.787",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.787"
+  },
+  {
+    "variabel_id": "5B4820A1-1E39-4C51-A03F-E70FB9B0F2B5",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.35",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.35"
+  },
+  {
+    "variabel_id": "91225BF9-FC02-4356-9AED-ED50BBDBB26A",
+    "value_id": 1,
+    "value_name": "Angkatan 1",
+    "create_date": "2022-06-23 21:09:57",
+    "last_update": "2021-06-23 21:09:57",
+    "expired_date": null,
+    "last_sync": "2021-06-23 21:09:57"
+  },
+  {
+    "variabel_id": "91225BF9-FC02-4356-9AED-ED50BBDBB26A",
+    "value_id": 2,
+    "value_name": "Angkatan 2",
+    "create_date": "2022-06-23 21:11:03",
+    "last_update": "2021-06-23 21:09:57",
+    "expired_date": null,
+    "last_sync": "2021-06-23 21:09:57"
+  },
+  {
+    "variabel_id": "91225BF9-FC02-4356-9AED-ED50BBDBB26A",
+    "value_id": 3,
+    "value_name": "Angkatan 3",
+    "create_date": "2022-06-23 21:11:50",
+    "last_update": "2021-06-23 21:09:57",
+    "expired_date": null,
+    "last_sync": "2021-06-23 21:09:57"
+  },
+  {
+    "variabel_id": "9C578DEE-BC6F-4C32-9D74-F342E896A823",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:26.737",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.737"
+  },
+  {
+    "variabel_id": "9C578DEE-BC6F-4C32-9D74-F342E896A823",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.277",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.277"
+  },
+  {
+    "variabel_id": "62F0FB41-ABF8-4E8C-8890-F8AEA2781393",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2022-02-25 10:30:27.127",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:27.127"
+  },
+  {
+    "variabel_id": "62F0FB41-ABF8-4E8C-8890-F8AEA2781393",
+    "value_id": 1,
+    "value_name": "Ya",
+    "create_date": "2022-02-25 10:30:26.713",
+    "last_update": "2022-07-22 00:00:00",
+    "expired_date": null,
+    "last_sync": "2022-02-25 10:30:26.713"
+  },
+  {
+    "variabel_id": "F1818212-808D-4BA7-8026-19D8070466F6",
+    "value_id": 0,
+    "value_name": "Tidak",
+    "create_date": "2025-07-08 00:00:00",
+    "last_update": "2025-07-20 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "variabel_id": "F1818212-808D-4BA7-8026-19D8070466F6",
+    "value_id": 1,
+    "value_name": "Tahunan",
+    "create_date": "2025-07-08 00:00:00",
+    "last_update": "2025-07-20 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "variabel_id": "F1818212-808D-4BA7-8026-19D8070466F6",
+    "value_id": 2,
+    "value_name": "Bulanan",
+    "create_date": "2025-07-08 00:00:00",
+    "last_update": "2025-07-20 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "variabel_id": "CB3EDDDE-C05E-424E-95A9-CC64990B5D03",
+    "value_id": 1,
+    "value_name": "Menerima",
+    "create_date": "2025-08-26 18:30:00",
+    "last_update": "2025-09-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "variabel_id": "CB3EDDDE-C05E-424E-95A9-CC64990B5D03",
+    "value_id": 2,
+    "value_name": "Menolak",
+    "create_date": "2025-08-26 18:30:00",
+    "last_update": "2025-09-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

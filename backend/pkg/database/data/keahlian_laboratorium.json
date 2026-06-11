@@ -1,0 +1,386 @@
+[
+  {
+    "keahlian_laboratorium_id": 46,
+    "nama": "Tata Niaga",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 1,
+    "nama": "Laboratorium IPA",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 2,
+    "nama": "Laboratorium Fisika",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 3,
+    "nama": "Laboratorium Biologi",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 4,
+    "nama": "Laboratorium Kimia",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 5,
+    "nama": "Laboratorium Bahasa",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 6,
+    "nama": "Laboratorium Komputer",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 7,
+    "nama": "Teknik Bangunan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 8,
+    "nama": "Teknik Plumbing dan Sanitasi",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 9,
+    "nama": "Teknik Survei dan Pemetaan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 10,
+    "nama": "Teknik Ketenagalistrikan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 11,
+    "nama": "Teknik Pendinginan dan Tata Udara",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 12,
+    "nama": "Teknik Mesin ",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 13,
+    "nama": "Teknik Otomotif",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 14,
+    "nama": "Teknologo Pesawat Udara",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 15,
+    "nama": "Teknik Perkapalan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 16,
+    "nama": "Teknologi Tekstil",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 17,
+    "nama": "Teknik Grafika",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 18,
+    "nama": "Geologi Pertambangan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 19,
+    "nama": "Instrumentasi Industri",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 20,
+    "nama": "Teknik Kimia",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 21,
+    "nama": "Pelayaran",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 22,
+    "nama": "Teknik Industri",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 23,
+    "nama": "Teknik Perminyakan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 24,
+    "nama": "Teknik Elektronika",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 25,
+    "nama": "Teknik Telekomunikasi",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 26,
+    "nama": "Teknik Komputer dan Informatika",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 27,
+    "nama": "Teknik Broadcasting",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 28,
+    "nama": "Kesehatan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 29,
+    "nama": "Perawatan Sosial",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 30,
+    "nama": "Seni Rupa",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 31,
+    "nama": "Desain dan Produksi Kria",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 32,
+    "nama": "Seni Pertunjukan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 33,
+    "nama": "Pariwisata",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 34,
+    "nama": "Tata Boga",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 35,
+    "nama": "Tata Kecantikan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 36,
+    "nama": "Tata Busana",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 37,
+    "nama": "Agribisnis Produksi Tanaman",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 38,
+    "nama": "Agribisnis Produksi Ternak",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 39,
+    "nama": "Agribisnis Produksi Sumberdaya Perairan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 40,
+    "nama": "Mekanisasi Pertanian",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 41,
+    "nama": "Agribisnis Hasil Pertanian",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 42,
+    "nama": "Penyuluhan Pertanian",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 43,
+    "nama": "Kehutanan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 44,
+    "nama": "Administrasi",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 45,
+    "nama": "Keuangan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 47,
+    "nama": "Penangkapan Ikan",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "keahlian_laboratorium_id": 99,
+    "nama": "Lainnya",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

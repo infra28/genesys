@@ -1,0 +1,332 @@
+[
+  {
+    "jenis_lembaga_id": 40.0,
+    "nama": "Sekretariat Ditjen Dikmen",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2014-11-04 02:49:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": "2019-08-01 01:00:00",
+    "last_sync": "1901-01-01 02:49:00"
+  },
+  {
+    "jenis_lembaga_id": 41.0,
+    "nama": "Direktorat Pembinaan Sekolah Menengah Atas",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2014-11-04 02:49:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 02:49:00"
+  },
+  {
+    "jenis_lembaga_id": 42.0,
+    "nama": "Direktorat Pembinaan Sekolah Menengah Kejuruan",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2014-11-04 02:49:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 02:49:00"
+  },
+  {
+    "jenis_lembaga_id": 43.0,
+    "nama": "Direktorat PTK",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2014-11-04 02:49:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": "2019-08-01 01:00:00",
+    "last_sync": "1901-01-01 02:49:00"
+  },
+  {
+    "jenis_lembaga_id": 44.0,
+    "nama": "Direktorat Pembinaan Pendidikan Khusus",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2014-11-04 02:49:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 02:49:00"
+  },
+  {
+    "jenis_lembaga_id": 51.0,
+    "nama": "Direktorat Jenderal Pendidikan Anak Usia Dini dan Pendidikan Masyarakat",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 1.0,
+    "nama": "Sekolah",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 2.0,
+    "nama": "UPTD",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 3.0,
+    "nama": "Dinas Pendidikan Kabupaten/Kota",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 4.0,
+    "nama": "Dinas Pendidikan Provinsi",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 5.0,
+    "nama": "Direktorat Teknis",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": "2019-08-01 01:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 6.0,
+    "nama": "Direktorat Jenderal",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": "2019-08-01 01:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 7.0,
+    "nama": "Pusat Pusat di Kementerian",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 8.0,
+    "nama": "Sekretariat Jenderal",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 20.0,
+    "nama": "Kanwil Kemenag",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 21.0,
+    "nama": "Direktorat Jenderal Pendidikan Dasar dan Menengah",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 22.0,
+    "nama": "Sekretaris Direktorat Jenderal Pendidikan Dasar dan Menengah",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 23.0,
+    "nama": "Direktorat Pembinaan Sekolah Dasar",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 24.0,
+    "nama": "Direktorat Pembinaan Sekolah Menengah Pertama",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 31.0,
+    "nama": "Direktorat Jenderal Guru dan Tenaga Kependidikan",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 32.0,
+    "nama": "Sekretariat Direktorat Jenderal Guru dan Tenaga Kependidikan",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 33.0,
+    "nama": "Direktorat Pembinaan Guru Pendidikan Dasar",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 34.0,
+    "nama": "Direktorat Pembinaan Guru Pendidikan Menengah dan Pendidikan Khusus",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 35.0,
+    "nama": "Direktorat Pembinaan Guru dan Tenaga Kependidikan Paud-Dikmas",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 36.0,
+    "nama": "Direktorat Pembinaan Tenaga Kependidikan.",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 61.0,
+    "nama": "Direktorat Jenderal Kebudayaan",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 71.0,
+    "nama": "Inspektorat Jenderal",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 85.0,
+    "nama": "Badan Pengembangan Bahasa dan Perbukuan",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 86.0,
+    "nama": "Badan Penelitian dan Pengembangan",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 98.0,
+    "nama": "Cabang Dinas Propinsi ",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2019-08-01 01:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 99.0,
+    "nama": "Lainnya",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2013-11-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 9.0,
+    "nama": "Badan Penyelenggara Satuan Pendidikan",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2023-07-04 11:11:06.31",
+    "last_update": "2023-07-04 11:11:06.31",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_lembaga_id": 10.0,
+    "nama": "Kementerian dan Lembaga",
+    "tempat_pengawas": 0.0,
+    "simpul_pendataan": 0.0,
+    "create_date": "2022-08-05 16:00:00",
+    "last_update": "2022-08-05 16:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

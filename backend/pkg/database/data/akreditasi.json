@@ -1,0 +1,58 @@
+[
+  {
+    "akreditasi_id": 1.0,
+    "nama": "A",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akreditasi_id": 2.0,
+    "nama": "B",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akreditasi_id": 3.0,
+    "nama": "C",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akreditasi_id": 4.0,
+    "nama": "Terakreditasi",
+    "create_date": "2016-08-10 00:10:16.753",
+    "last_update": "2016-08-10 00:10:16.753",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akreditasi_id": 8.0,
+    "nama": "Tidak Terakreditasi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akreditasi_id": 9.0,
+    "nama": "Belum Terakreditasi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "akreditasi_id": 5.0,
+    "nama": "Sertifikat Kedaluwarsa",
+    "create_date": "2022-12-16 10:32:32.653",
+    "last_update": "2022-12-16 11:05:52.19",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "bentuk_lembaga_id": 1.0,
+    "nama": "Lembaga tunggal (tidak mempunyai cabang maupun induk atau pusat)",
+    "create_date": "2016-07-20 16:30:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "bentuk_lembaga_id": 2.0,
+    "nama": "Lembaga pusat (memiliki cabang)",
+    "create_date": "2016-07-20 16:30:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "bentuk_lembaga_id": 3.0,
+    "nama": "Lembaga cabang",
+    "create_date": "2016-07-20 16:30:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "bentuk_lembaga_id": 4.0,
+    "nama": "Lembaga waralaba (franchise)",
+    "create_date": "2016-07-20 16:30:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

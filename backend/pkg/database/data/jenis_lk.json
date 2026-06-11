@@ -1,0 +1,38 @@
+[
+  {
+    "id_jenis_lk": "000001",
+    "nm_jenis_lk": "sekolah kecil",
+    "ket_jenis_lk": null,
+    "create_date": "2015-08-02 12:30:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jenis_lk": "000002",
+    "nm_jenis_lk": "sekolah terbuka",
+    "ket_jenis_lk": null,
+    "create_date": "2015-08-02 12:30:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jenis_lk": "000003",
+    "nm_jenis_lk": "sekolah darurat",
+    "ket_jenis_lk": null,
+    "create_date": "2015-08-02 12:30:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jenis_lk": "000004",
+    "nm_jenis_lk": "sekolah terintegrasi",
+    "ket_jenis_lk": null,
+    "create_date": "2015-08-02 12:30:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

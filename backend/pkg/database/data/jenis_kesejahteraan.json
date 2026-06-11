@@ -1,0 +1,134 @@
+[
+  {
+    "jenis_kesejahteraan_id": 1,
+    "nama": "Asuransi Kesejahteraan",
+    "penyelenggara": "-",
+    "u_ptk": 1.0,
+    "u_pd": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.381",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.381"
+  },
+  {
+    "jenis_kesejahteraan_id": 2,
+    "nama": "Dana Pensiun",
+    "penyelenggara": "-",
+    "u_ptk": 1.0,
+    "u_pd": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.382",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.382"
+  },
+  {
+    "jenis_kesejahteraan_id": 3,
+    "nama": "Jamkesmas",
+    "penyelenggara": "-",
+    "u_ptk": 1.0,
+    "u_pd": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.382",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.382"
+  },
+  {
+    "jenis_kesejahteraan_id": 4,
+    "nama": "Jamsostek",
+    "penyelenggara": "-",
+    "u_ptk": 1.0,
+    "u_pd": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.382",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.382"
+  },
+  {
+    "jenis_kesejahteraan_id": 5,
+    "nama": "BPJS",
+    "penyelenggara": "-",
+    "u_ptk": 1.0,
+    "u_pd": 0.0,
+    "create_date": "2014-02-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.383",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.383"
+  },
+  {
+    "jenis_kesejahteraan_id": 9,
+    "nama": "Lainnya",
+    "penyelenggara": "-",
+    "u_ptk": 1.0,
+    "u_pd": 0.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2022-07-01 22:05:22.383",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.383"
+  },
+  {
+    "jenis_kesejahteraan_id": 11,
+    "nama": "Program Indonesia Pintar ",
+    "penyelenggara": "-",
+    "u_ptk": 0.0,
+    "u_pd": 1.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2022-07-01 22:05:22.383",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.383"
+  },
+  {
+    "jenis_kesejahteraan_id": 12,
+    "nama": "Program Keluarga Harapan ",
+    "penyelenggara": "-",
+    "u_ptk": 0.0,
+    "u_pd": 1.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2022-07-01 22:05:22.383",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.383"
+  },
+  {
+    "jenis_kesejahteraan_id": 13,
+    "nama": "Kartu Perlindungan Sosial ",
+    "penyelenggara": "-",
+    "u_ptk": 0.0,
+    "u_pd": 1.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2022-07-01 22:05:22.384",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.384"
+  },
+  {
+    "jenis_kesejahteraan_id": 14,
+    "nama": "Kartu Keluarga Sejahtera ",
+    "penyelenggara": "-",
+    "u_ptk": 0.0,
+    "u_pd": 1.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2022-07-01 22:05:22.384",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.384"
+  },
+  {
+    "jenis_kesejahteraan_id": 15,
+    "nama": "Kartu Indonesia Sehat ",
+    "penyelenggara": "-",
+    "u_ptk": 0.0,
+    "u_pd": 1.0,
+    "create_date": "2019-08-01 01:00:00",
+    "last_update": "2022-07-01 22:05:22.384",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.384"
+  },
+  {
+    "jenis_kesejahteraan_id": 16,
+    "nama": "Orang Asli Papua (OAP)",
+    "penyelenggara": "Daerah Papua",
+    "u_ptk": 1.0,
+    "u_pd": 1.0,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2025-04-28 17:09:17.883",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

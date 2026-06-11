@@ -5,7 +5,7 @@ import {
   CommunityBadges,
   Connections,
   PersonalInfo,
-  StartNow,
+  PersonalInfoApp,
   Work,
 } from './components';
 
@@ -22,7 +22,7 @@ export function AccountUserProfileContent() {
       </div>
       <div className="col-span-1">
         <div className="grid gap-5 lg:gap-7.5">
-          <StartNow />
+          <PersonalInfoApp />
           <CalendarAccounts />
           <Connections url="#" />
           <RecentUploads title="My Files" />

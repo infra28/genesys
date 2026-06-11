@@ -1,0 +1,272 @@
+[
+  {
+    "jenjang_pendidikan_id": 0.0,
+    "nama": "Tidak sekolah",
+    "jenjang_lembaga": 0.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 1.0,
+    "nama": "PAUD",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 2.0,
+    "nama": "TK / sederajat",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 3.0,
+    "nama": "Putus SD",
+    "jenjang_lembaga": 0.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 4.0,
+    "nama": "SD / sederajat",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 5.0,
+    "nama": "SMP / sederajat",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 6.0,
+    "nama": "SMA / sederajat",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 7.0,
+    "nama": "Paket A",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 8.0,
+    "nama": "Paket B",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 9.0,
+    "nama": "Paket C",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 20.0,
+    "nama": "D1",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 21.0,
+    "nama": "D2",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 22.0,
+    "nama": "D3",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 23.0,
+    "nama": "D4",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 25.0,
+    "nama": "Profesi",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2014-06-04 13:13:13",
+    "last_update": "2018-02-24 11:51:40",
+    "expired_date": "2017-03-22 18:11:01",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 30.0,
+    "nama": "S1",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 31.0,
+    "nama": "Profesi",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2017-03-07 09:50:58",
+    "last_update": "2018-02-24 11:51:40",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 32.0,
+    "nama": "Sp-1",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2014-06-04 13:11:32",
+    "last_update": "2018-02-24 11:51:40",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 35.0,
+    "nama": "S2",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 36.0,
+    "nama": "S2 Terapan",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2017-05-04 09:20:18",
+    "last_update": "2018-02-24 11:51:40",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 37.0,
+    "nama": "Sp-2",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2014-06-04 13:12:23",
+    "last_update": "2018-02-24 11:51:40",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 40.0,
+    "nama": "S3",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 41.0,
+    "nama": "S3 Terapan",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 1.0,
+    "create_date": "2017-05-04 09:20:27",
+    "last_update": "2018-02-24 11:51:40",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 90.0,
+    "nama": "Non formal",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 91.0,
+    "nama": "Informal",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 98.0,
+    "nama": "(tidak diisi)",
+    "jenjang_lembaga": 0.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-25 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-05-25 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenjang_pendidikan_id": 99.0,
+    "nama": "Lainnya",
+    "jenjang_lembaga": 1.0,
+    "jenjang_orang": 0.0,
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

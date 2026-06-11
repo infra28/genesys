@@ -1,0 +1,74 @@
+[
+  {
+    "lembaga_pengangkat_id": 0.0,
+    "nama": "(tidak diisi)",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2016-07-17 23:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "lembaga_pengangkat_id": 1.0,
+    "nama": "Pemerintah Pusat",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "lembaga_pengangkat_id": 2.0,
+    "nama": "Pemerintah Propinsi",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "lembaga_pengangkat_id": 3.0,
+    "nama": "Pemerintah Kab/Kota",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "lembaga_pengangkat_id": 4.0,
+    "nama": "Ketua Yayasan",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "lembaga_pengangkat_id": 5.0,
+    "nama": "Kepala Sekolah",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "lembaga_pengangkat_id": 6.0,
+    "nama": "Komite Sekolah",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "lembaga_pengangkat_id": 7.0,
+    "nama": "Lainnya",
+    "create_date": "2013-07-13 00:00:00",
+    "last_update": "2018-01-27 01:00:00",
+    "expired_date": "2018-01-27 01:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "lembaga_pengangkat_id": 99.0,
+    "nama": "Lainnya",
+    "create_date": "2013-07-12 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

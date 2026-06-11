@@ -1,0 +1,90 @@
+[
+  {
+    "jenis_gugus_id": 0.0,
+    "jenis_gugus": "Belum Ikut",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_gugus_id": 1.0,
+    "jenis_gugus": "Inti",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_gugus_id": 2.0,
+    "jenis_gugus": "Imbas",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_gugus_id": 3.0,
+    "jenis_gugus": "unknown",
+    "create_date": "2013-11-21 01:02:16.513",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-21 01:02:16.513",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_gugus_id": 4.0,
+    "jenis_gugus": "unknown",
+    "create_date": "2013-11-21 01:02:16.513",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-21 01:02:16.513",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_gugus_id": 7.0,
+    "jenis_gugus": "unknown",
+    "create_date": "2013-11-08 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-08 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_gugus_id": 9.0,
+    "jenis_gugus": "unknown",
+    "create_date": "2013-11-08 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-08 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_gugus_id": 10.0,
+    "jenis_gugus": "Pondok Pesantren",
+    "create_date": "2017-10-03 22:00:00",
+    "last_update": "2017-10-03 22:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_gugus_id": 11.0,
+    "jenis_gugus": "SKS",
+    "create_date": "2018-01-08 11:31:43",
+    "last_update": "2018-01-24 22:08:39",
+    "expired_date": null,
+    "last_sync": "2018-01-24 22:08:39"
+  },
+  {
+    "jenis_gugus_id": 12.0,
+    "jenis_gugus": "Kesiapan Covid 19",
+    "create_date": "2020-08-12 11:58:33",
+    "last_update": "2020-08-19 11:58:37",
+    "expired_date": null,
+    "last_sync": "2020-08-12 11:58:44"
+  },
+  {
+    "jenis_gugus_id": 13.0,
+    "jenis_gugus": "Terdampak Bencana",
+    "create_date": "2020-08-12 11:59:34",
+    "last_update": "2020-08-19 11:58:37",
+    "expired_date": null,
+    "last_sync": "2020-08-12 11:59:40"
+  }
+]

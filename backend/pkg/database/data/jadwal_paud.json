@@ -1,0 +1,110 @@
+[
+  {
+    "jadwal_id": 1.0,
+    "nama": "Satu minggu sekali",
+    "kesehatan": 0.0,
+    "pamts": 1.0,
+    "ddtk": 0.0,
+    "freq_parenting": 0.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jadwal_id": 2.0,
+    "nama": "Dua minggu sekali",
+    "kesehatan": 0.0,
+    "pamts": 1.0,
+    "ddtk": 0.0,
+    "freq_parenting": 0.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jadwal_id": 3.0,
+    "nama": "Satu bulan sekali",
+    "kesehatan": 1.0,
+    "pamts": 1.0,
+    "ddtk": 1.0,
+    "freq_parenting": 1.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jadwal_id": 4.0,
+    "nama": "Tiga bulan sekali",
+    "kesehatan": 1.0,
+    "pamts": 1.0,
+    "ddtk": 1.0,
+    "freq_parenting": 0.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jadwal_id": 5.0,
+    "nama": "Enam bulan sekali",
+    "kesehatan": 1.0,
+    "pamts": 1.0,
+    "ddtk": 1.0,
+    "freq_parenting": 0.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jadwal_id": 6.0,
+    "nama": "Satu tahun sekali",
+    "kesehatan": 1.0,
+    "pamts": 1.0,
+    "ddtk": 1.0,
+    "freq_parenting": 0.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jadwal_id": 7.0,
+    "nama": "Dua atau tiga bulan sekali",
+    "kesehatan": 0.0,
+    "pamts": 0.0,
+    "ddtk": 0.0,
+    "freq_parenting": 1.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jadwal_id": 8.0,
+    "nama": "Di atas tiga bulan sekali",
+    "kesehatan": 0.0,
+    "pamts": 0.0,
+    "ddtk": 0.0,
+    "freq_parenting": 1.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jadwal_id": 99.0,
+    "nama": "Belum ada",
+    "kesehatan": 1.0,
+    "pamts": 1.0,
+    "ddtk": 1.0,
+    "freq_parenting": 0.0,
+    "create_date": "2015-04-29 14:00:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

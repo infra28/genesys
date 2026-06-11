@@ -1,0 +1,114 @@
+[
+  {
+    "waktu_penyelenggaraan_id": -5.0,
+    "nama": "Pagi/5 hari",
+    "create_date": "2023-07-07 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": -4.0,
+    "nama": "Malam/5 hari",
+    "create_date": "2020-08-13 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": "1900-01-01 00:00:00",
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": -3.0,
+    "nama": "Sore/5 hari",
+    "create_date": "2020-08-13 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": "1900-01-01 00:00:00",
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": -2.0,
+    "nama": "Siang/5 hari",
+    "create_date": "2020-08-13 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": "1900-01-01 00:00:00",
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": -1.0,
+    "nama": "Pagi/5 hari",
+    "create_date": "2020-08-13 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": "1900-01-01 00:00:00",
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 1.0,
+    "nama": "Pagi/6 hari",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 2.0,
+    "nama": "Siang/6 hari",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 3.0,
+    "nama": "Double Shift/6 hari",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 4.0,
+    "nama": "Sore/6 hari",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 5.0,
+    "nama": "Malam/6 hari",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 6.0,
+    "nama": "Sehari Penuh/5 hari",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 7.0,
+    "nama": "Sehari Penuh/6 hari",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 8.0,
+    "nama": "Sehari Penuh/3 hari",
+    "create_date": "2021-04-27 21:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": null,
+    "last_sync": "2026-01-02 15:24:02.317"
+  },
+  {
+    "waktu_penyelenggaraan_id": 9.0,
+    "nama": "Lainnya",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2026-01-02 15:24:02.317",
+    "expired_date": "2018-01-31 16:00:00",
+    "last_sync": "2026-01-02 15:24:02.317"
+  }
+]

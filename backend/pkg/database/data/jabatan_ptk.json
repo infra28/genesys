@@ -1,0 +1,1082 @@
+[
+  {
+    "jabatan_ptk_id": 20704.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agribisnis Tanaman",
+    "jabatan_kode": "JF01000704",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 20804.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agribisnis Ternak",
+    "jabatan_kode": "JF01000804",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Animasi",
+    "jabatan_kode": "JF01001104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21204.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Arab",
+    "jabatan_kode": "JF01001204",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Indonesia",
+    "jabatan_kode": "JF01001304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21404.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Inggris",
+    "jabatan_kode": "JF01001404",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Jepang",
+    "jabatan_kode": "JF01001504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21604.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Jerman",
+    "jabatan_kode": "JF01001604",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21804.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Perancis",
+    "jabatan_kode": "JF01001804",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21904.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bimbingan Konseling",
+    "jabatan_kode": "JF01001904",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22004.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Biologi",
+    "jabatan_kode": "JF01002004",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Broadcasting Dan Perfilman",
+    "jabatan_kode": "JF01002104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22204.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Busana",
+    "jabatan_kode": "JF01002204",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Desain Dan Produksi Kriya",
+    "jabatan_kode": "JF01002304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Desain Pemodelan Dan Informasi Bangunan",
+    "jabatan_kode": "JF01002504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22604.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Ekonomi",
+    "jabatan_kode": "JF01002604",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22704.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Fisika",
+    "jabatan_kode": "JF01002704",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22804.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Geografi",
+    "jabatan_kode": "JF01002804",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22904.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru IPA",
+    "jabatan_kode": "JF01002904",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 23004.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru IPS",
+    "jabatan_kode": "JF01003004",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 23104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Kecantikan Dan Spa",
+    "jabatan_kode": "JF01003104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 23204.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Kehutanan",
+    "jabatan_kode": "JF01003204",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 23304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Kelas",
+    "jabatan_kode": "JF01003304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 23704.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Kimia Analisis",
+    "jabatan_kode": "JF01003704",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 23904.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Konstruksi Dan Perawatan Bangunan Sipil",
+    "jabatan_kode": "JF01003904",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24004.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Kuliner",
+    "jabatan_kode": "JF01004004",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Layanan Kesehatan",
+    "jabatan_kode": "JF01004104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Matematika",
+    "jabatan_kode": "JF01004304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24404.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Nautika Kapal Niaga",
+    "jabatan_kode": "JF01004404",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Nautika Kapal Penangkapan Ikan",
+    "jabatan_kode": "JF01004504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24604.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Pekerjaan Sosial",
+    "jabatan_kode": "JF01004604",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24704.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Pemasaran",
+    "jabatan_kode": "JF01004704",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24804.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Pendidikan Khusus",
+    "jabatan_kode": "JF01004804",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25004.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Penjasorkes",
+    "jabatan_kode": "JF01005004",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Perhotelan",
+    "jabatan_kode": "JF01005104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25204.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru PPKN",
+    "jabatan_kode": "JF01005204",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25404.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Sejarah",
+    "jabatan_kode": "JF01005404",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25604.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Seni Pertunjukan",
+    "jabatan_kode": "JF01005604",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25704.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Sosiologi",
+    "jabatan_kode": "JF01005704",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25804.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknika Kapal Niaga",
+    "jabatan_kode": "JF01005804",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26004.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Elektronika",
+    "jabatan_kode": "JF01006004",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Energi Terbarukan",
+    "jabatan_kode": "JF01006104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26204.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Furnitur",
+    "jabatan_kode": "JF01006204",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Geologi Pertambangan",
+    "jabatan_kode": "JF01006304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26404.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Geospasial",
+    "jabatan_kode": "JF01006404",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Jaringan Komputer Dan Telekomunikasi",
+    "jabatan_kode": "JF01006504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26604.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Ketenagalistrikan",
+    "jabatan_kode": "JF01006604",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26704.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Kimia Industri",
+    "jabatan_kode": "JF01006704",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26904.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Laboratorium Medik",
+    "jabatan_kode": "JF01006904",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 27004.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Logistik",
+    "jabatan_kode": "JF01007004",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 27104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Mesin",
+    "jabatan_kode": "JF01007104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 27304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Otomotif",
+    "jabatan_kode": "JF01007304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 27604.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Perawatan Gedung",
+    "jabatan_kode": "JF01007604",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 27704.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Perminyakan",
+    "jabatan_kode": "JF01007704",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 27904.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknologi Farmasi",
+    "jabatan_kode": "JF01007904",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28004.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru TIK",
+    "jabatan_kode": "JF01008004",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28114.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Usaha Pertanian Terpadu",
+    "jabatan_kode": "JFSMKNEW50",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28204.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Antropologi",
+    "jabatan_kode": "JF01008204",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Seni Rupa",
+    "jabatan_kode": "JF01008304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28404.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Konstruksi Kapal",
+    "jabatan_kode": "JF01008404",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Tekstil",
+    "jabatan_kode": "JF01008504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28701.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Madura",
+    "jabatan_kode": "JF01008701",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28801.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Sunda",
+    "jabatan_kode": "JF01008801",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28901.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Bali",
+    "jabatan_kode": "JF01008901",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 29001.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Tutor",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 29002.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Pamong Belajar",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 31001.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Tenaga Administrasi Sekolah",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 32001.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Laboran",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 33001.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Pustakawan",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 34001.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Tukang Kebun",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 34002.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Penjaga Sekolah",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 34003.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Petugas Keamanan",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 34004.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Pesuruh/Office Boy",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 20104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agama Budha",
+    "jabatan_kode": "JF01000104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 20204.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agama Hindu",
+    "jabatan_kode": "JF01000204",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 20304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agama Islam",
+    "jabatan_kode": "JF01000304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 20404.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agama Katolik",
+    "jabatan_kode": "JF01000404",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 20504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agama Kristen",
+    "jabatan_kode": "JF01000504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 20604.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agribisnis Perikanan",
+    "jabatan_kode": "JF01000604",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 27804.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Pesawat Udara",
+    "jabatan_kode": "JF01007804",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28104.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Usaha Layanan Pariwisata",
+    "jabatan_kode": "JF01008104",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28601.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Jawa",
+    "jabatan_kode": "JF01008601",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 28999.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Muatan Lokal Lainnya",
+    "jabatan_kode": "-",
+    "create_date": "2024-08-02 16:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 34005.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Terapis",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 35001.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Instruktur",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 35101.0,
+    "jenis_ptk_id": 93.0,
+    "jabatan_ptk": "Instruktur Kejuruan",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 41001.0,
+    "jenis_ptk_id": 94.0,
+    "jabatan_ptk": "Pengawas Satuan Pendidikan",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 41002.0,
+    "jenis_ptk_id": 94.0,
+    "jabatan_ptk": "Pengawas Metpel/Rumpun",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 41003.0,
+    "jenis_ptk_id": 94.0,
+    "jabatan_ptk": "Pengawas PLB",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 41004.0,
+    "jenis_ptk_id": 94.0,
+    "jabatan_ptk": "Pengawas Bidang",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 41005.0,
+    "jenis_ptk_id": 94.0,
+    "jabatan_ptk": "Pengawas SD",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 41006.0,
+    "jenis_ptk_id": 94.0,
+    "jabatan_ptk": "Pengawas BK",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 41007.0,
+    "jenis_ptk_id": 94.0,
+    "jabatan_ptk": "Pengawas PaudDikmas",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 41008.0,
+    "jenis_ptk_id": 94.0,
+    "jabatan_ptk": "Penilik",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 99999.0,
+    "jenis_ptk_id": 99.0,
+    "jabatan_ptk": "Tidak diisi",
+    "jabatan_kode": "-",
+    "create_date": "2024-06-14 00:00:00",
+    "last_update": "2024-06-14 00:00:00",
+    "expired_date": "2024-06-14 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 10001.0,
+    "jenis_ptk_id": 91.0,
+    "jabatan_ptk": "Kepala Sekolah",
+    "jabatan_kode": null,
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-06-14 21:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 20904.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Agriteknologi Pengolahan Hasil Pertanian",
+    "jabatan_kode": "JF01000904",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21004.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Akuntansi Dan Keuangan Lembaga",
+    "jabatan_kode": "JF01001004",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 21704.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Bahasa Mandarin",
+    "jabatan_kode": "JF01001704",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 22404.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Desain Komunikasi Visual",
+    "jabatan_kode": "JF01002404",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 23504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Kimia",
+    "jabatan_kode": "JF01003504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24204.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Manajemen Perkantoran Dan Layanan Bisnis",
+    "jabatan_kode": "JF01004204",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 24904.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Pengembangan Perangkat Lunak Dan Gim",
+    "jabatan_kode": "JF01004904",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25304.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Prakarya Dan Kewirausahaan",
+    "jabatan_kode": "JF01005304",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Seni Budaya",
+    "jabatan_kode": "JF01005504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 25904.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknika Kapal Penangkapan Ikan",
+    "jabatan_kode": "JF01005904",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 26804.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Konstruksi Dan Perumahan",
+    "jabatan_kode": "JF01006804",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jabatan_ptk_id": 27504.0,
+    "jenis_ptk_id": 92.0,
+    "jabatan_ptk": "Guru Teknik Pengelasan Dan Fabrikasi Logam",
+    "jabatan_kode": "JF01007504",
+    "create_date": "2024-06-14 21:00:00",
+    "last_update": "2024-08-05 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

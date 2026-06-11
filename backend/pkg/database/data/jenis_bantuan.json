@@ -1,0 +1,622 @@
+[
+  {
+    "jenis_bantuan_id": 35,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:03.87",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 14,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:36.193",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 15,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:37.193",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 16,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:38.053",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 36,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:04.493",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 37,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:05.38",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 38,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:06.263",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 39,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:07.793",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 40,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:13.65",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 41,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:15.54",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 42,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:16.797",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 43,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 06:25:58.75",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 44,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 06:26:00.427",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 45,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 06:26:01.787",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 99,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:20.053",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 101,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-11-06 23:44:43.02",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-06 23:44:43.02",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 102,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-11-06 23:30:30.39",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 103,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-11-06 23:30:32.01",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 104,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-11-06 23:30:33.49",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 105,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-11-06 23:30:37.517",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 999,
+    "nama": "Lainnya",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1001,
+    "nama": "Program Kecakapan Kerja (PKK)",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2017-08-02 23:00:00",
+    "last_update": "2017-08-02 23:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1002,
+    "nama": "Program Kecakapan Kerja Unggulan (PKKU)",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2017-08-02 23:00:00",
+    "last_update": "2017-08-02 23:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1004,
+    "nama": "Program Kecakapan Kerja Unggulan (PKWU)",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2017-08-02 23:00:00",
+    "last_update": "2017-08-02 23:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1005,
+    "nama": "Keaksaraan Dasar Kabupaten Terpadat",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2018-06-04 13:49:20.413",
+    "last_update": "2018-06-04 13:49:20.413",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1006,
+    "nama": "Keaksaraan Dasar Daerah 3T dan Papua",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2018-06-04 13:49:20.427",
+    "last_update": "2018-06-04 13:49:20.427",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1007,
+    "nama": "Keaksaraan Dasar Komunitas Adat Terpencil",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2018-06-04 13:49:20.427",
+    "last_update": "2018-06-04 13:49:20.427",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1008,
+    "nama": "Keaksaraan Usaha Mandiri",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2018-06-04 13:49:20.43",
+    "last_update": "2018-06-04 13:49:20.43",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1009,
+    "nama": "Multikeaksaraan",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2018-06-04 13:49:20.43",
+    "last_update": "2018-06-04 13:49:20.43",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1010,
+    "nama": "Bantuan TIK",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 0.0,
+    "create_date": "2023-06-23 17:00:00",
+    "last_update": "2023-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1,
+    "nama": "Peningkatan Kapasitas",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 2,
+    "nama": "Peningkatan Fungsi",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 3,
+    "nama": "Peningkatan Mutu",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 4,
+    "nama": "Keterjangkauan",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 5,
+    "nama": "Operasional",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 6,
+    "nama": "Rehabilitasi",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 7,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:26.953",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 8,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:28.53",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 9,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:29.117",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 10,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:31.647",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 11,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:33.35",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 12,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:34.53",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 13,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:35.293",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 17,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:39.023",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 18,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:39.86",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 19,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:41.073",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 20,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:45.54",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 21,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:46.917",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 22,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:47.583",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 23,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:48.33",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 24,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:49.133",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 25,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:50.88",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 26,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:51.837",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 27,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:52.91",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 28,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:54.19",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 29,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:56.61",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 30,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:20:58.34",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 31,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:00.58",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 32,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:01.447",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 33,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:02.283",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 34,
+    "nama": "unknown",
+    "untuk_sekolah": 1.0,
+    "untuk_pd": 1.0,
+    "create_date": "2013-12-31 05:21:03.123",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": "2013-11-07 00:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_bantuan_id": 1003,
+    "nama": "Program Kecakapan Wirausaha (PKW)",
+    "untuk_sekolah": 0.0,
+    "untuk_pd": 1.0,
+    "create_date": "2017-08-02 23:00:00",
+    "last_update": "2017-08-02 23:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

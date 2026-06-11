@@ -1,0 +1,106 @@
+[
+  {
+    "id_jns_panitia": 1,
+    "nm_jns_panitia": "Penanggulangan Tindak Kekerasan di Sekolah",
+    "create_date": "2016-07-15 07:22:52.37",
+    "last_update": "2023-11-01 00:00:00",
+    "expired_date": "2023-07-24 15:31:15.867",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 23,
+    "nm_jns_panitia": "Penyelenggara Assesment Nasional",
+    "create_date": "2021-07-28 10:00:00",
+    "last_update": "2021-07-28 12:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 24,
+    "nm_jns_panitia": "Tim Pencegahan dan Penanganan Kekerasan (TPPK)",
+    "create_date": "2021-07-28 10:00:00",
+    "last_update": "2024-03-27 12:06:32.093",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 2,
+    "nm_jns_panitia": "Penyelenggara Komite Sekolah",
+    "create_date": "2017-07-15 07:22:52.37",
+    "last_update": "2017-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 3,
+    "nm_jns_panitia": "Pengenalan Lingkungan Sekolah",
+    "create_date": "2018-08-16 20:54:47.88",
+    "last_update": "2018-08-16 20:54:47.88",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 4,
+    "nm_jns_panitia": "Penerimaan Peserta Didik Baru",
+    "create_date": "2018-08-16 20:54:47.897",
+    "last_update": "2018-08-16 20:54:47.897",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 5,
+    "nm_jns_panitia": "Penyelenggara Ujian Nasional",
+    "create_date": "2018-08-16 20:54:47.897",
+    "last_update": "2018-08-16 20:54:47.897",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 6,
+    "nm_jns_panitia": "Literasi Sekolah",
+    "create_date": "2018-08-16 20:54:47.897",
+    "last_update": "2018-08-16 20:54:47.897",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 7,
+    "nm_jns_panitia": "Tim Bos Sekolah",
+    "create_date": "2018-08-16 20:54:47.897",
+    "last_update": "2018-08-16 20:54:47.897",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 8,
+    "nm_jns_panitia": "Tim Pendataan Sekolah",
+    "create_date": "2018-08-16 20:54:47.897",
+    "last_update": "2018-08-16 20:54:47.897",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 9,
+    "nm_jns_panitia": "Kegiatan Keagamaan",
+    "create_date": "2018-08-16 20:54:47.91",
+    "last_update": "2018-08-16 20:54:47.91",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 21,
+    "nm_jns_panitia": "Parenting",
+    "create_date": "2019-08-19 14:30:00",
+    "last_update": "2019-08-19 14:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "id_jns_panitia": 22,
+    "nm_jns_panitia": "Kelas Inspirasi",
+    "create_date": "2019-08-19 14:30:00",
+    "last_update": "2019-08-19 14:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

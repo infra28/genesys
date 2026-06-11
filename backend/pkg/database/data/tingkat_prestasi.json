@@ -1,0 +1,58 @@
+[
+  {
+    "tingkat_prestasi_id": 1,
+    "nama": "Sekolah",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.323",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.323"
+  },
+  {
+    "tingkat_prestasi_id": 2,
+    "nama": "Kecamatan",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.324",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.324"
+  },
+  {
+    "tingkat_prestasi_id": 3,
+    "nama": "Kab/kota",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.324",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.324"
+  },
+  {
+    "tingkat_prestasi_id": 4,
+    "nama": "Propinsi",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.324",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.324"
+  },
+  {
+    "tingkat_prestasi_id": 5,
+    "nama": "Nasional",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.325",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.325"
+  },
+  {
+    "tingkat_prestasi_id": 6,
+    "nama": "Internasional",
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2022-07-01 22:05:22.325",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.325"
+  },
+  {
+    "tingkat_prestasi_id": 9,
+    "nama": "Lainnya",
+    "create_date": "2013-05-14 00:00:00",
+    "last_update": "2022-07-01 22:05:22.325",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.325"
+  }
+]

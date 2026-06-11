@@ -1,0 +1,154 @@
+[
+  {
+    "jenis_rombel": 1.0,
+    "nm_jenis_rombel": "Kelas",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2017-07-21 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 2.0,
+    "nm_jenis_rombel": "Teori",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2017-07-21 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 3.0,
+    "nm_jenis_rombel": "Praktek dalam sekolah",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2017-07-21 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 4.0,
+    "nm_jenis_rombel": "Praktek luar sekolah",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2017-07-21 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 5.0,
+    "nm_jenis_rombel": "Pilihan 1 - Agama",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2017-07-31 17:58:57.537",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 6.0,
+    "nm_jenis_rombel": "Pilihan 2 - Seni Budaya",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2017-07-31 17:58:57.537",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 7.0,
+    "nm_jenis_rombel": "Pilihan 3 - Prakarya",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2017-07-31 17:58:57.537",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 8.0,
+    "nm_jenis_rombel": "Kelas Jauh/Kecil",
+    "create_date": "2017-07-31 13:03:31.493",
+    "last_update": "2017-07-31 17:58:57.537",
+    "expired_date": null,
+    "last_sync": "2017-07-31 13:03:31.493"
+  },
+  {
+    "jenis_rombel": 9.0,
+    "nm_jenis_rombel": "Kelas Terbuka",
+    "create_date": "2017-07-31 13:03:31.507",
+    "last_update": "2017-07-31 17:58:57.537",
+    "expired_date": null,
+    "last_sync": "2017-07-31 13:03:31.507"
+  },
+  {
+    "jenis_rombel": 10.0,
+    "nm_jenis_rombel": "Kelas Akselerasi",
+    "create_date": "2017-07-31 13:03:31.52",
+    "last_update": "2018-01-27 01:00:00",
+    "expired_date": "2018-01-27 01:00:00",
+    "last_sync": "2017-07-31 13:03:31.52"
+  },
+  {
+    "jenis_rombel": 11.0,
+    "nm_jenis_rombel": "SKS 4 Semester",
+    "create_date": "2018-11-17 10:00:00",
+    "last_update": "2019-02-17 10:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 12.0,
+    "nm_jenis_rombel": "SKS 6 Semester",
+    "create_date": "2018-11-17 10:00:00",
+    "last_update": "2019-02-17 10:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 13.0,
+    "nm_jenis_rombel": "SKS 8 Semester",
+    "create_date": "2018-11-17 10:00:00",
+    "last_update": "2019-02-17 10:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 51.0,
+    "nm_jenis_rombel": "Ekstrakurikuler",
+    "create_date": "2017-07-21 00:00:00",
+    "last_update": "2017-07-31 18:06:28.657",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 14.0,
+    "nm_jenis_rombel": "Pembelajaran Daring",
+    "create_date": "2020-08-12 12:01:01",
+    "last_update": "2021-01-19 00:00:00",
+    "expired_date": null,
+    "last_sync": "2020-08-12 12:01:07"
+  },
+  {
+    "jenis_rombel": 15.0,
+    "nm_jenis_rombel": "Kursus",
+    "create_date": "2020-08-12 12:01:24",
+    "last_update": "2021-01-19 00:00:00",
+    "expired_date": null,
+    "last_sync": "2020-08-12 12:01:30"
+  },
+  {
+    "jenis_rombel": 16.0,
+    "nm_jenis_rombel": "Matapelajaran Pilihan",
+    "create_date": "2022-06-21 15:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 17.0,
+    "nm_jenis_rombel": "Rombongan Belajar P5",
+    "create_date": "2022-06-21 15:00:00",
+    "last_update": "2022-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_rombel": 18.0,
+    "nm_jenis_rombel": "Wali",
+    "create_date": "2025-07-17 15:00:00",
+    "last_update": "2025-07-20 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

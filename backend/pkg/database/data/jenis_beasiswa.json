@@ -1,0 +1,79 @@
+[
+  {
+    "jenis_beasiswa_id": 1,
+    "sumber_dana_id": 999.0,
+    "nama": "Prestasi",
+    "untuk_pd": 1.0,
+    "untuk_ptk": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_beasiswa_id": 2,
+    "sumber_dana_id": 999.0,
+    "nama": "Kemiskinan",
+    "untuk_pd": 1.0,
+    "untuk_ptk": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_beasiswa_id": 3,
+    "sumber_dana_id": 999.0,
+    "nama": "Pendidikan",
+    "untuk_pd": 1.0,
+    "untuk_ptk": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_beasiswa_id": 4,
+    "sumber_dana_id": 999.0,
+    "nama": "Unggulan",
+    "untuk_pd": 1.0,
+    "untuk_ptk": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_beasiswa_id": 5,
+    "sumber_dana_id": 999.0,
+    "nama": "Ikatan Dinas",
+    "untuk_pd": 0.0,
+    "untuk_ptk": 1.0,
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_beasiswa_id": 6,
+    "sumber_dana_id": 999.0,
+    "nama": "Peningkatan Karir",
+    "untuk_pd": 0.0,
+    "untuk_ptk": 1.0,
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "jenis_beasiswa_id": 99,
+    "sumber_dana_id": 999.0,
+    "nama": "Lainnya",
+    "untuk_pd": 1.0,
+    "untuk_ptk": 1.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "kelompok_usaha_id": "1       ",
+    "nama_kelompok_usaha": "Perdagangan Umum",
+    "create_date": "2013-10-30 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kelompok_usaha_id": "2       ",
+    "nama_kelompok_usaha": "Pertanian dan Peternakan",
+    "create_date": "2013-10-30 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kelompok_usaha_id": "3       ",
+    "nama_kelompok_usaha": "Bangunan dan Properti",
+    "create_date": "2013-10-30 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kelompok_usaha_id": "4       ",
+    "nama_kelompok_usaha": "Permesinan dan Otomotif",
+    "create_date": "2013-10-30 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kelompok_usaha_id": "5       ",
+    "nama_kelompok_usaha": "Teknologi Informasi dan Komunikasi",
+    "create_date": "2013-10-30 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kelompok_usaha_id": "6       ",
+    "nama_kelompok_usaha": "Keuangan dan Perbankan",
+    "create_date": "2013-10-30 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "kelompok_usaha_id": "7       ",
+    "nama_kelompok_usaha": "Advertising dan Seni Kreatif",
+    "create_date": "2013-10-30 00:00:00",
+    "last_update": "2016-07-22 06:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

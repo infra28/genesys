@@ -1,0 +1,34 @@
+[
+  {
+    "klasifikasi_lembaga_id": 1.0,
+    "nama": "Internasional",
+    "create_date": "2016-07-20 16:30:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "klasifikasi_lembaga_id": 2.0,
+    "nama": "Nasional",
+    "create_date": "2016-07-20 16:30:00",
+    "last_update": "2022-07-15 00:40:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "klasifikasi_lembaga_id": 3.0,
+    "nama": "Provinsi",
+    "create_date": "2016-07-20 16:30:00",
+    "last_update": "2025-08-08 21:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "klasifikasi_lembaga_id": 4.0,
+    "nama": "Kabupaten / Kota",
+    "create_date": "2016-07-20 16:30:00",
+    "last_update": "2025-08-08 21:30:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]

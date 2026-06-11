@@ -1,0 +1,178 @@
+[
+  {
+    "jabatan_fungsional_id": 1.0,
+    "nama": "Guru Pratama, ll/a",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.459",
+    "expired_date": "2013-10-07 00:00:00",
+    "last_sync": "2022-07-01 22:05:22.459"
+  },
+  {
+    "jabatan_fungsional_id": 2.0,
+    "nama": "Guru Pratama TK I, ll/b",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.459",
+    "expired_date": "2013-10-07 00:00:00",
+    "last_sync": "2022-07-01 22:05:22.459"
+  },
+  {
+    "jabatan_fungsional_id": 3.0,
+    "nama": "Guru Muda, ll/c",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.459",
+    "expired_date": "2013-10-07 00:00:00",
+    "last_sync": "2022-07-01 22:05:22.459"
+  },
+  {
+    "jabatan_fungsional_id": 4.0,
+    "nama": "Guru Muda TK I, ll/d",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.46",
+    "expired_date": "2013-10-07 00:00:00",
+    "last_sync": "2022-07-01 22:05:22.46"
+  },
+  {
+    "jabatan_fungsional_id": 5.0,
+    "nama": "Guru Madya, lll/a",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.46",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.46"
+  },
+  {
+    "jabatan_fungsional_id": 6.0,
+    "nama": "Guru Madya TK I, II l/b",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.46",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.46"
+  },
+  {
+    "jabatan_fungsional_id": 7.0,
+    "nama": "Guru Dewasa, lll/c",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.46",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.46"
+  },
+  {
+    "jabatan_fungsional_id": 8.0,
+    "nama": "Guru Dewasa TK I, lll/d",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.46",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.46"
+  },
+  {
+    "jabatan_fungsional_id": 9.0,
+    "nama": "Guru Pembina, IV/a",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.461",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.461"
+  },
+  {
+    "jabatan_fungsional_id": 10.0,
+    "nama": "Guru Pembina TK I, IV/b",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.461",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.461"
+  },
+  {
+    "jabatan_fungsional_id": 11.0,
+    "nama": "Guru Utama Muda, IV/c",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.461",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.461"
+  },
+  {
+    "jabatan_fungsional_id": 12.0,
+    "nama": "Guru Utama Madya, IV/d",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.461",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.461"
+  },
+  {
+    "jabatan_fungsional_id": 13.0,
+    "nama": "Guru Utama, IV/e",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.462",
+    "expired_date": "2016-02-02 16:20:00",
+    "last_sync": "2022-07-01 22:05:22.462"
+  },
+  {
+    "jabatan_fungsional_id": 14.0,
+    "nama": "Guru Pertama, lll/a",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.462",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.462"
+  },
+  {
+    "jabatan_fungsional_id": 15.0,
+    "nama": "Guru Pertama, lll/b",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.462",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.462"
+  },
+  {
+    "jabatan_fungsional_id": 16.0,
+    "nama": "Guru Muda, lll/c",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.462",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.462"
+  },
+  {
+    "jabatan_fungsional_id": 17.0,
+    "nama": "Guru Muda, lll/d",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.462",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.462"
+  },
+  {
+    "jabatan_fungsional_id": 18.0,
+    "nama": "Guru Madya, IV/a",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.463",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.463"
+  },
+  {
+    "jabatan_fungsional_id": 19.0,
+    "nama": "Guru Madya, IV/b",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.463",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.463"
+  },
+  {
+    "jabatan_fungsional_id": 20.0,
+    "nama": "Guru Madya, IV/c",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.463",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.463"
+  },
+  {
+    "jabatan_fungsional_id": 21.0,
+    "nama": "Guru Utama, IV/d",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.463",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.463"
+  },
+  {
+    "jabatan_fungsional_id": 22.0,
+    "nama": "Guru Utama, IV/e",
+    "create_date": "2013-10-07 00:00:00",
+    "last_update": "2022-07-01 22:05:22.463",
+    "expired_date": null,
+    "last_sync": "2022-07-01 22:05:22.463"
+  }
+]

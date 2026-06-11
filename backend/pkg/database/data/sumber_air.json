@@ -1,0 +1,152 @@
+[
+  {
+    "sumber_air_id": 1.0,
+    "nama": "Air kemasan",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2020-08-13 23:45:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 2.0,
+    "nama": "Ledeng/PAM",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 3.0,
+    "nama": "Pompa",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 4.0,
+    "nama": "Sumur",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": "2016-07-30 12:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 5.0,
+    "nama": "Mata air",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": "2016-07-30 12:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 6.0,
+    "nama": "Air sungai",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 7.0,
+    "nama": "Air hujan",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 9.0,
+    "nama": "Lainnya",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2013-05-13 00:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": "2025-12-31 12:00:00",
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 10.0,
+    "nama": "Sumur terlindungi",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2016-07-30 11:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 11.0,
+    "nama": "Sumur tidak terlindungi",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2016-07-30 11:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 12.0,
+    "nama": "Mata air terlindungi",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2016-07-30 11:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 13.0,
+    "nama": "Mata air tdk terlindungi",
+    "sumber_air": 1.0,
+    "sumber_minum": 0.0,
+    "create_date": "2016-07-30 11:00:00",
+    "last_update": "2020-07-15 00:00:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 14.0,
+    "nama": "Disediakan oleh siswa",
+    "sumber_air": 0.0,
+    "sumber_minum": 1.0,
+    "create_date": "2020-06-26 15:30:00",
+    "last_update": "2020-08-13 23:45:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 99.0,
+    "nama": "Tidak Ada",
+    "sumber_air": 1.0,
+    "sumber_minum": 1.0,
+    "create_date": "2020-08-13 11:00:00",
+    "last_update": "2020-08-13 23:45:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  },
+  {
+    "sumber_air_id": 15.0,
+    "nama": "Disediakan oleh sekolah",
+    "sumber_air": 0.0,
+    "sumber_minum": 1.0,
+    "create_date": "2020-08-13 11:00:00",
+    "last_update": "2021-01-13 23:45:00",
+    "expired_date": null,
+    "last_sync": "1901-01-01 00:00:00"
+  }
+]
