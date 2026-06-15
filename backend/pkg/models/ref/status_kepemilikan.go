@@ -4,12 +4,12 @@ import (
 	"time"
 )
 
-// KepemilikanSarpras mewakili struktur tabel ref.kepemilikan_sarpras
-type KepemilikanSarpras struct {
+// StatusKepemilikan mewakili struktur tabel ref.status_kepemilikan
+type StatusKepemilikan struct {
 	// Key: Primary Key, Type: numeric(1,0) -> int16
-	KepemilikanSarprasID int16 `gorm:"primaryKey;column:kepemilikan_sarpras_id;type:numeric(1,0);not null" json:"kepemilikan_sarpras_id"`
+	StatusKepemilikanID int16 `gorm:"primaryKey;column:status_kepemilikan_id;type:numeric(1,0);not null" json:"status_kepemilikan_id"`
 
-	// Informasi Kepemilikan
+	// Informasi Status
 	Nama string `gorm:"column:nama;type:varchar(20);not null" json:"nama"`
 
 	// Timestamp System
@@ -19,6 +19,6 @@ type KepemilikanSarpras struct {
 	LastSync    time.Time  `gorm:"column:last_sync;type:timestamp;not null;default:'1901-01-01 00:00:00'" json:"last_sync"`
 }
 
-func (KepemilikanSarpras) TableName() string {
-	return "ref.kepemilikan_sarpras"
+func (StatusKepemilikan) TableName() string {
+	return "ref.status_kepemilikan"
 }
