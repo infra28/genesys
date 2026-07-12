@@ -2,7 +2,7 @@ package main
 
 import (
 	"backend/pkg/database"
-	"backend/pkg/database/seeders"
+	//"backend/pkg/database/seeders"
 	"backend/pkg/models"
 	"backend/pkg/routes"
 	"fmt"
@@ -32,7 +32,7 @@ func main() {
 		}
 		database.SeedRoles()
 		database.SeedAdmin()
-		seeders.RunSeeders(database.DB)
+		//seeders.RunSeeders(database.DB)
 	}
 
 	// 3. Inisialisasi Fiber v3
